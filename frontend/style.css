@@ -1,0 +1,53 @@
+#hi {
+    margin: 310px;
+    padding: 60px;
+    color: white;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 30px;
+    background-color: black;
+    border-style: inset;
+    border-width: 10px;
+    text-align: center;
+    z-index: 1;
+}
+
+#aaa {
+    margin: 70px;
+    padding: 60px;
+    color: white;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 30px;
+    background-color: black;
+    border-style: inset;
+    border-width: 10px;
+    text-align: center;
+    z-index: 6;
+}
+
+button {
+    border-color: red;
+    border-style: inset;
+    border-width: 100px;
+}
+
+.btn-purple {
+    background-color: rgb(131, 5, 131);
+    color: white;
+}
+
+
+.btn-purple:hover {
+    opacity: 0.6;
+    color: white;
+    box-shadow: 10px, 10px;
+    transition: 2s;
+}
+
+.btn-purple:active {
+    opacity: 50%;
+    border-bottom-color: transparent;
+	transform: translateY(0.1875em);
+}
+
