@@ -1,4 +1,74 @@
-#box-header {
-    border-width: 20px;
-    border-color: black;
+.card {
+    margin-left: 1rem;
+}
+
+#card-top {
+    width: 18rem; 
+    height: 10rem; 
+    border-top-left-radius: 20px; 
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: none; 
+    border-bottom-right-radius: none;
+    border-bottom: none;
+    margin-top: 1rem;
+    -webkit-box-shadow: 0 3px 5px rgba(0, 0, 0, .3);
+    box-shadow: 0 3px 5px rgba(0, 0, 0, .3);
+}
+
+#card-top h1 {
+    font-size: 1.9rem;
+    font-family: "M PLUS Rounded 1c";
+    text-align: center;
+    margin-top: 1rem;
+    line-height: 3rem;
+}
+
+#card-bottom {
+    width: 18rem; 
+    height: 30rem;
+    border-top-left-radius: none; 
+    border-top-right-radius: none;
+    border-bottom-left-radius: 20px; 
+    border-bottom-right-radius: 20px;
+    /* border-top: none; */
+    -webkit-box-shadow: 0 3px 5px rgba(0, 0, 0, .3);
+    box-shadow: 0 3px 5px rgba(0, 0, 0, .3);
+    position: relative;
+}
+
+.bi {
+    font-size: 1.3rem;
+    border-radius: 50%;
+    border: none;
+    background-color: rgba(4, 0, 255, 0.75);
+    color: rgb(255, 255, 255);
+    -webkit-box-shadow: 0 1px 5px rgba(0, 0, 0, .3);
+    box-shadow: 0 1px 5px rgba(0, 0, 0, .3);
+    padding: 0.9rem;
+}
+
+.bi:hover {
+    opacity: 0.9;
+}
+
+.bi:active {
+    position: absolute;
+    bottom: 1.2rem;
+    border-radius: 50%;
+    border: none;
+    background-color: rgba(4, 0, 255, 0.75);
+    color: white;
+    box-shadow: none;
+}
+
+.bi-chevron-left {
+    position: absolute;
+    left: 1.3rem;
+    bottom: 1.3rem;
+}
+
+.bi-chevron-right {
+    position: absolute;
+    right: 1.3rem;
+    bottom: 1.3rem;
 }
