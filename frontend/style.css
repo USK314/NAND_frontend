@@ -1,53 +1,88 @@
-#hi {
-    margin: 310px;
-    padding: 60px;
-    color: white;
-    font-style: italic;
-    font-weight: bold;
-    font-size: 30px;
-    background-color: black;
-    border-style: inset;
-    border-width: 10px;
+.card {
+    margin-left: 1rem;
+}
+
+#card-top {
+    width: 18rem; 
+    height: 10rem; 
+    border-top-left-radius: 20px; 
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: none; 
+    border-bottom-right-radius: none;
+    border-bottom: none;
+    margin-top: 1rem;
+    -webkit-box-shadow: 0 3px 5px rgba(0, 0, 0, .3);
+    box-shadow: 0 3px 5px rgba(0, 0, 0, .3);
+}
+
+#card-top h1 {
+    font-size: 1.9rem;
+    font-family: "M PLUS Rounded 1c";
     text-align: center;
-    z-index: 1;
+    margin-top: 1rem;
+    line-height: 3rem;
 }
 
-#aaa {
-    margin: 70px;
-    padding: 60px;
+#card-bottom {
+    width: 18rem; 
+    height: 30rem;
+    border-top-left-radius: none; 
+    border-top-right-radius: none;
+    border-bottom-left-radius: 20px; 
+    border-bottom-right-radius: 20px;
+    /* border-top: none; */
+    -webkit-box-shadow: 0 3px 5px rgba(0, 0, 0, .3);
+    box-shadow: 0 3px 5px rgba(0, 0, 0, .3);
+    position: relative;
+}
+
+#skip {
+    color: rgb(2, 1, 2);
+    background-color: rgb(255, 255, 255);
+    border-end-start-radius: 1rem;
+    -webkit-box-shadow: 0 1px 5px rgba(0, 0, 0, .3);
+    box-shadow: 0 1px 5px rgba(0, 0, 0, .3);
+    position: absolute;
+    bottom: 2rem;
+    left: 50%;
+    transform: translateX(-50%);
+    -webkit-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+}
+
+.arrow {
+    font-size: 1.3rem;
+    border-radius: 50%;
+    border: none;
+    background-color: rgba(4, 0, 255, 0.75);
+    color: rgb(255, 255, 255);
+    -webkit-box-shadow: 0 1px 5px rgba(0, 0, 0, .3);
+    box-shadow: 0 1px 5px rgba(0, 0, 0, .3);
+    padding: 0.9rem;
+}
+
+.arrow:hover {
+    opacity: 0.9;
+}
+
+.arrow:active {
+    position: absolute;
+    bottom: 1.2rem;
+    border-radius: 50%;
+    border: none;
+    background-color: rgba(4, 0, 255, 0.75);
     color: white;
-    font-style: italic;
-    font-weight: bold;
-    font-size: 30px;
-    background-color: black;
-    border-style: inset;
-    border-width: 10px;
-    text-align: center;
-    z-index: 6;
+    box-shadow: none;
 }
 
-button {
-    border-color: red;
-    border-style: inset;
-    border-width: 100px;
+.bi-chevron-left {
+    position: absolute;
+    left: 1.3rem;
+    bottom: 1.3rem;
 }
 
-.btn-purple {
-    background-color: rgb(131, 5, 131);
-    color: white;
+.bi-chevron-right {
+    position: absolute;
+    right: 1.3rem;
+    bottom: 1.3rem;
 }
-
-
-.btn-purple:hover {
-    opacity: 0.6;
-    color: white;
-    box-shadow: 10px, 10px;
-    transition: 2s;
-}
-
-.btn-purple:active {
-    opacity: 50%;
-    border-bottom-color: transparent;
-	transform: translateY(0.1875em);
-}
-
