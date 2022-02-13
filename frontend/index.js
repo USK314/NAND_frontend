@@ -55,3 +55,18 @@ function rightButtonAppear() {
     if (right.style.display === "none") right.style.display = "block";
     else right.style.display = "none";
 }
+
+//sidebar
+function sidebar() {
+    let body = document.body;
+    let hamburger = document.getElementById("hamburger");
+    let bg = document.getElementById("bg");
+
+    hamburger.addEventListener('click', function() {
+        body.classList.toggle('nav-open');
+    });
+    bg.addEventListener('click', function() {
+        body.classList.remove('nav-open');
+    });
+}
+sidebar();

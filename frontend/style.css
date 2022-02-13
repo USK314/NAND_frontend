@@ -86,3 +86,103 @@
     right: 1.3rem;
     bottom: 1.3rem;
 }
+
+
+/* サイドバーのスタイル */
+.header {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 40px;
+    background-color: white;
+    box-shadow: 0 2px 6px rgba(0,0,0,.16);
+}
+
+.history {
+    position: fixed;
+    right: -320px; /* これで隠れる */
+    top: 0;
+    width: 300px; /* スマホに収まるくらい */
+    height: 100vh;
+    padding-top: 40px;
+    background-color: rgb(0, 0, 0);
+    transition: all .6s;
+    z-index: 200;
+    overflow-y: auto; /* メニューが多くなったらスクロールできるように */
+  }
+
+.history_list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.hamburger {
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 40px; /* クリックしやすいようにちゃんと幅を指定する */
+    height: 40px; /* クリックしやすいようにちゃんと高さを指定する */
+    cursor: pointer;
+    z-index: 300;
+}
+
+
+.hamburger__line {
+    position: absolute;
+    left: 11px;
+    width: 18px;
+    height: 1px;
+    background-color: #111;
+    transition: all .6s;
+}
+
+.hamburger__line--1 {
+    top: 14px;
+}
+
+.hamburger__line--2 {
+    top: 20px;
+}
+
+.hamburger__line--3 {
+    top: 26px;
+}
+
+.bg {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: 100;
+    background-color: #000;
+    opacity: 0;
+    visibility: hidden;
+    transition: all .6s;
+    cursor: pointer;
+}
+
+.nav-open .history {
+    right: 0;
+}
+.nav-open .black-bg {
+    opacity: .8;
+    visibility: visible;
+}
+
+.nav-open .hamburger__line--1 {
+    transform: rotate(45deg);
+    top: 20px;
+}
+
+.nav-open .hamburger__line--2 {
+    width: 0;
+    left: 50%;
+}
+
+.nav-open .hamburger__line--3 {
+    transform: rotate(-45deg);
+    top: 20px;
+}
