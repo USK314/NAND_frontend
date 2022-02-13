@@ -36,7 +36,21 @@
     position: relative;
 }
 
-.bi {
+#skip {
+    color: rgb(2, 1, 2);
+    background-color: rgb(255, 255, 255);
+    border-end-start-radius: 1rem;
+    -webkit-box-shadow: 0 1px 5px rgba(0, 0, 0, .3);
+    box-shadow: 0 1px 5px rgba(0, 0, 0, .3);
+    position: absolute;
+    bottom: 2rem;
+    left: 50%;
+    transform: translateX(-50%);
+    -webkit-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+}
+
+.arrow {
     font-size: 1.3rem;
     border-radius: 50%;
     border: none;
@@ -47,11 +61,11 @@
     padding: 0.9rem;
 }
 
-.bi:hover {
+.arrow:hover {
     opacity: 0.9;
 }
 
-.bi:active {
+.arrow:active {
     position: absolute;
     bottom: 1.2rem;
     border-radius: 50%;
