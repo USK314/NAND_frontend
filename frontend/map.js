@@ -57,7 +57,7 @@ function initMap() {
 }
 
 function getAreaThenShow() {
-    //APIからJSONデータを取得する
+    // TODO: APIからJSONデータを取得する↓
     fetch("https://jsonplaceholder.typicode.com/todos/")
         .then((response) => {
             console.log(response);
@@ -68,6 +68,7 @@ function getAreaThenShow() {
             result.forEach((point) => {
                 marker = new google.maps.Marker({ // マーカーの追加
                     position: {
+                        // TODO: 緯度と経度の取得
                         lat: 43.0 + point.id / 100, // 緯度
                         lng: 141.3 // 経度, // マーカーを立てる位置を指定
                     },
