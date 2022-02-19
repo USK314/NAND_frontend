@@ -1,7 +1,7 @@
 // import axios from "/frontend/node_modules/axios";
 
-// const baseUrl = "https://nand-application.herokuapp.com/";
-const baseUrl = "http://127.0.0.1:5501/";
+const baseUrl_1 = "https://nand-application.herokuapp.com/";
+const baseUrl_2 = "http://127.0.0.1:5501/";
 
 // router.get('/', (req, res) => {
 //   try {
@@ -12,15 +12,137 @@ const baseUrl = "http://127.0.0.1:5501/";
 //   }
 // })
 
-fetch(baseUrl, {
+// fetch(baseUrl_1, {
+//   mode: 'cors',
+//   credentials: 'include' // ここを追加。
+// });
+
+fetch(baseUrl_2, {
   mode: 'cors',
   credentials: 'include' // ここを追加。
 });
 
-fetch(baseUrl)
-  .then((result) => {
-    
+fetch(baseUrl_2 + "/users")
+  .then((res) => {
+    if (!res.ok) {
+        throw new Error(`${res.status} ${res.statusText}`);
+    }
+    return res.blob();
   })
+  .then((blob) => {
+    // ...
+  })
+  .catch((reason) => {
+    console.log(reason);
+  });
+
+const data = {
+    message: 'Hello'
+};
+
+fetch(baseUrl_2 + "/user")
+  .then((res) => {
+    if (!res.ok) {
+        throw new Error(`${res.status} ${res.statusText}`);
+    }
+    return res.blob();
+  })
+  .then((blob) => {
+    // ...
+  })
+  .catch((reason) => {
+    console.log(reason);
+  });
+
+fetch(baseUrl_2 + "/history")
+  .then((res) => {
+    if (!res.ok) {
+        throw new Error(`${res.status} ${res.statusText}`);
+    }
+    return res.blob();
+  })
+  .then((blob) => {
+    // ...
+  })
+  .catch((reason) => {
+    console.log(reason);
+  });
+
+fetch(baseUrl_2 + "/history_related_user")
+  .then((res) => {
+    if (!res.ok) {
+        throw new Error(`${res.status} ${res.statusText}`);
+    }
+    return res.blob();
+  })
+  .then((blob) => {
+    // ...
+  })
+  .catch((reason) => {
+    console.log(reason);
+  });
+
+function create_user(){
+	// URLSearchParamsに画面の値をセット
+	const para1 = new URLSearchParams();
+	para1.set("name",document.getElementById("name").value);
+
+	fetch(baseUrl_2 + "?" +  para1.toString())
+
+		.then(function(response1) { //成功時に実行される
+			console.log("status=" + response1.status); //status=200
+			return response1.json();
+		})
+		.then(function(data1) { //成功時に実行される
+			console.log(JSON.stringify(data1)); //JSONを出力
+		})
+		.catch(function(err1) { //失敗時に実行される
+			console.log("err=" + err1);
+		});
+}
+
+function create_history(){
+	// URLSearchParamsに画面の値をセット
+	const para1 = new URLSearchParams();
+	para1.set("name",document.getElementById("name").value);
+	para1.set("area",document.getElementById("area").value);
+  para1.set("city",document.getElementById("city").value);
+	para1.set("restaurant",document.getElementById("restaurant").value);
+  para1.set("hotel",document.getElementById("hotel").value);
+
+	fetch(baseUrl_2 + "?" + para1.toString())
+
+		.then(function(response1) { //成功時に実行される
+			console.log("status=" + response1.status); //status=200
+			return response1.json();
+		})
+		.then(function(data1) { //成功時に実行される
+			console.log(JSON.stringify(data1)); //JSONを出力
+		})
+		.catch(function(err1) { //失敗時に実行される
+			console.log("err=" + err1);
+		});
+}
+
+function update_user(){
+	// URLSearchParamsに画面の値をセット
+	const para1 = new URLSearchParams();
+	para1.set("name",document.getElementById("name").value);
+
+	fetch(baseUrl_2 + "?" +  para1.toString())
+
+		.then(function(response1) { //成功時に実行される
+			console.log("status=" + response1.status); //status=200
+			return response1.json();
+		})
+		.then(function(data1) { //成功時に実行される
+			console.log(JSON.stringify(data1)); //JSONを出力
+		})
+		.catch(function(err1) { //失敗時に実行される
+			console.log("err=" + err1);
+		});
+}
+
 
 // axios.get('/users')
 // .then(function (response) {
