@@ -4,7 +4,7 @@ const baseUrl = "https://nand-application.herokuapp.com/";
 
 axios.get('/users')
 .then(function (response) {
-    // handle success
+  // handle success
   console.log(response);
 })
 .catch(function (error) {
