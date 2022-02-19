@@ -105,14 +105,14 @@ function dotFour() {
 function sidebar() {
     let body = document.body;
     let hamburger = document.getElementById("hamburger");
-    let bg = document.getElementById("bg");
+    // let bg = document.getElementById("bg");
 
     hamburger.addEventListener('click', function() {
         body.classList.toggle('nav-open');
     });
-    bg.addEventListener('click', function() {
-        body.classList.remove('nav-open');
-    });
+    // bg.addEventListener('click', function() {
+    //     body.classList.remove('nav-open');
+    // });
 }
 sidebar();
 
