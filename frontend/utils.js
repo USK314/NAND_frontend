@@ -1,30 +1,50 @@
-import axios from "axios";
+// import axios from "/frontend/node_modules/axios";
 
-const baseUrl = "https://nand-application.herokuapp.com/";
+// const baseUrl = "https://nand-application.herokuapp.com/";
+const baseUrl = "http://127.0.0.1:5501/";
 
-axios.get('/users')
-.then(function (response) {
-    // handle success
-  console.log(response);
-})
-.catch(function (error) {
-    // handle error
-  console.log(error);
-})
-.finally(function () {
-    // always executed
+// router.get('/', (req, res) => {
+//   try {
+// res.setHeader('Access-Control-Allow-Origin', 'http://127.0.0.1:5501/')
+//       res.status(201).send('ok')
+//   } catch (error) {
+//       console.error(error)
+//   }
+// })
+
+fetch(baseUrl, {
+  mode: 'cors',
+  credentials: 'include' // ここを追加。
 });
 
-axios.post('/user', {
-    firstName: 'Mineo',
-    lastName: 'Okuda'
+fetch(baseUrl)
+  .then((result) => {
+    
   })
-  .then(function (response) {
-    console.log(response);
-  })
-  .catch(function (error) {
-    console.log(error);
-  });
+
+// axios.get('/users')
+// .then(function (response) {
+//     // handle success
+//   console.log(response);
+// })
+// .catch(function (error) {
+//     // handle error
+//   console.log(error);
+// })
+// .finally(function () {
+//     // always executed
+// });
+
+// axios.post('/user', {
+//     firstName: 'Mineo',
+//     lastName: 'Okuda'
+//   })
+//   .then(function (response) {
+//     console.log(response);
+//   })
+//   .catch(function (error) {
+//     console.log(error);
+//   });
 
 
 // function getLocation(options) {
