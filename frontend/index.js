@@ -32,7 +32,7 @@ function skipButton() {
 function leftButton() {
     if (cardTopTitle.innerHTML === hotel) {
         cardTopTitle.innerHTML = restaurant;
-        rightButtonAppear();
+        //rightButtonAppear();
         dotThree();
     } else if (cardTopTitle.innerHTML === restaurant) {
         cardTopTitle.innerHTML = city;
@@ -46,10 +46,17 @@ function leftButton() {
 }
 
 //確認画面
+document.getElementById("confirm").style.display = "none";
 function confirm_button() {
-    
+    document.getElementById("confirm").style.display = "block";
 }
 
+function confirm_return() {
+    document.getElementById("confirm").style.display = "none";
+}
+
+
+//
 document.getElementById("skip").style.display = "none";
 document.getElementById("left-button").style.display = "none";
 function skipButtonAppear() {
@@ -117,7 +124,7 @@ function sidebar() {
 sidebar();
 
 function modal_button() {
-    let modal = document.getElementById("modal");
+    let modal = document.getElementById("neme_form");
     modal.style.display = "none";
 
 }

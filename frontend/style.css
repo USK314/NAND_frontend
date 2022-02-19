@@ -221,6 +221,7 @@
 
 
 .history_item {
+    size: 1rem;
     background-color: rgb(194, 194, 194);
     border-radius: 1rem;
     margin: 0.7rem;
@@ -237,3 +238,17 @@
     z-index: 100;
     top: 5rem;
 }
+
+.modal-text {
+    padding-left : 2rem;
+    padding-right: 2rem;
+}
+
+.history_item img {
+    width: 15%;
+    height: 15%;
+}
+
+/* .modal-backdrop {
+    modal-backdrop-opacity :0.5;
+} */
