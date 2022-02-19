@@ -1,8 +1,13 @@
+.modal {
+    display: inline;
+}
+
 .card {
     margin-left: 1rem;
 }
 
 #card-top {
+    position: relative;
     width: 18rem; 
     height: 10rem; 
     border-top-left-radius: 20px; 
@@ -30,7 +35,6 @@
     border-top-right-radius: none;
     border-bottom-left-radius: 20px; 
     border-bottom-right-radius: 20px;
-    /* border-top: none; */
     -webkit-box-shadow: 0 3px 5px rgba(0, 0, 0, .3);
     box-shadow: 0 3px 5px rgba(0, 0, 0, .3);
     position: relative;
@@ -61,7 +65,7 @@
     font-size: 1.3rem;
     border-radius: 50%;
     border: none;
-    background-color: rgba(4, 0, 255, 0.75);
+    background-color: #146ee4;
     color: rgb(255, 255, 255);
     -webkit-box-shadow: 0 1px 5px rgba(0, 0, 0, .3);
     box-shadow: 0 1px 5px rgba(0, 0, 0, .3);
@@ -77,7 +81,7 @@
     bottom: 1.2rem;
     border-radius: 50%;
     border: none;
-    background-color: rgba(4, 0, 255, 0.75);
+    background-color: #146ee4;
     color: white;
     box-shadow: none;
 }
@@ -94,6 +98,136 @@
     bottom: 1.3rem;
 }
 
+.dotContainer {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    -webkit-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+}
+
+.dot {
+    margin: 0.2rem;
+    float: left;
+    opacity: 50%;
+    font-size: 0.1rem;
+    transition: 0.5s;
+}
+
+/* サイドバーのスタイル */
+.header {
+    position: fixed;
+    right: 0;
+    top: 0;
+    width: 2.5rem;
+    height: 40px;
+    background-color: white;
+    box-shadow: 0 2px 6px rgba(0,0,0,.16);
+    z-index: 100;
+}
+
+.history {
+    position: fixed;
+    right: -320px; /* これで隠れる */
+    top: 0;
+    width: 300px; /* スマホに収まるくらい */
+    height: 100vh;
+    padding-top: 40px;
+    background-color: rgb(255, 255, 255);
+    transition: all .6s;
+    z-index: 200;
+    overflow-y: auto; /* メニューが多くなったらスクロールできるように */
+  }
+
+.history_list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.hamburger {
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 40px; /* クリックしやすいようにちゃんと幅を指定する */
+    height: 40px; /* クリックしやすいようにちゃんと高さを指定する */
+    cursor: pointer;
+    z-index: 300;
+}
+
+
+.hamburger_line {
+    position: absolute;
+    left: 11px;
+    width: 18px;
+    height: 1px;
+    background-color: #111;
+    transition: all .6s;
+}
+
+.hamburger_line1 {
+    top: 14px;
+}
+
+.hamburger_line2 {
+    top: 20px;
+}
+
+.hamburger_line3 {
+    top: 26px;
+}
+
+.bg {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: 100;
+    background-color: rgb(255, 254, 254);
+    opacity: 0;
+    visibility: hidden;
+    transition: all .6s;
+    cursor: pointer;
+}
+
+.nav-open .history {
+    right: 0;
+}
+.nav-open .black-bg {
+    opacity: .8;
+    visibility: visible;
+}
+
+.nav-open .hamburger_line1 {
+    transform: rotate(45deg);
+    top: 20px;
+}
+
+.nav-open .hamburger_line2 {
+    width: 0;
+    left: 50%;
+}
+
+.nav-open .hamburger_line3 {
+    transform: rotate(-45deg);
+    top: 20px;
+}
+
+.history_element {
+    padding: 0.5rem;
+    font-size: 1rem;
+}
+
+
+.history_item {
+    size: 1rem;
+    background-color: rgb(194, 194, 194);
+    border-radius: 1rem;
+    margin: 0.7rem;
+    padding: 0.3rem;
+}
+
 #map {
     position: fixed;
     z-index: 10;
@@ -104,3 +238,17 @@
     z-index: 100;
     top: 5rem;
 }
+
+.modal-text {
+    padding-left : 2rem;
+    padding-right: 2rem;
+}
+
+.history_item img {
+    width: 15%;
+    height: 15%;
+}
+
+/* .modal-backdrop {
+    modal-backdrop-opacity :0.5;
+} */

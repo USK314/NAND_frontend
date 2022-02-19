@@ -2,7 +2,7 @@ import axios from "axios";
 
 const baseUrl = "https://nand-application.herokuapp.com/";
 
-axios.get('/user')
+axios.get('/users')
 .then(function (response) {
     // handle success
   console.log(response);
@@ -14,6 +14,18 @@ axios.get('/user')
 .finally(function () {
     // always executed
 });
+
+axios.post('/user', {
+    firstName: 'Mineo',
+    lastName: 'Okuda'
+  })
+  .then(function (response) {
+    console.log(response);
+  })
+  .catch(function (error) {
+    console.log(error);
+  });
+
 
 // function getLocation(options) {
 //   return new Promise((resolve, reject) =>

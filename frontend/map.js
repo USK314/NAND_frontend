@@ -57,24 +57,30 @@ function initMap() {
 }
 
 function getAreaThenShow() {
-    //APIからJSONデータを取得する
-    fetch("https://jsonplaceholder.typicode.com/todos/")
-        .then((response) => {
-            console.log(response);
-            return response.json();//ここでBodyからJSONを返す
-        })
+    // TODO: APIからJSONデータを取得する↓
+    fetch("RESAS.json")
+        // .then((response) => {
+        //     console.log(response);
+        //     return response.json();//ここでBodyからJSONを返す
+        // })
         .then((result) => {
             console.log(result);
             result.forEach((point) => {
                 marker = new google.maps.Marker({ // マーカーの追加
                     position: {
-                        lat: 43.0 + point.id / 100, // 緯度
-                        lng: 141.3 // 経度, // マーカーを立てる位置を指定
+                        // TODO: 緯度と経度の取得
+                        lat: point.緯度, // 緯度
+                        lng: point.経度// 経度, // マーカーを立てる位置を指定
                     },
                     map: map // マーカーを立てる地図を指定
                 });
                 marker.addListener('click', function() { // マーカーをクリックしたとき
-                    document.getElementById("card-text").innerText = point.title;
+                    document.getElementById("card-text").innerText = point.スポット名;
+                    
+                    //マーカーをクリックしたらズームするあれ
+                    myOptoins.zoom = 30;
+                    myOptoins.center = point.marker.position;
+
                 });  //取得したJSONデータを関数に渡す 
             });
             // TODO: 次のに行ったらmarker全部消さないといけない

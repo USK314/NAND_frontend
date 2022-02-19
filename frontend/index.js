@@ -8,12 +8,17 @@ function rightButton() {
     if (cardTopTitle.innerHTML === area) {
         cardTopTitle.innerHTML = city;
         leftButtonAppear();
+        dotTwo();
     } else if (cardTopTitle.innerHTML === city) {
         cardTopTitle.innerHTML = restaurant;
         skipButtonAppear();
+        dotThree();
     } else if (cardTopTitle.innerHTML === restaurant) {
         cardTopTitle.innerHTML = hotel;
-        rightButtonAppear();
+        //rightButtonAppear();
+        dotFour();
+    } else if (cardTopTitle.innerHTML === hotel) {
+        confirm_button();
     }
 }
 
@@ -27,16 +32,31 @@ function skipButton() {
 function leftButton() {
     if (cardTopTitle.innerHTML === hotel) {
         cardTopTitle.innerHTML = restaurant;
-        rightButtonAppear();
+        //rightButtonAppear();
+        dotThree();
     } else if (cardTopTitle.innerHTML === restaurant) {
         cardTopTitle.innerHTML = city;
         skipButtonAppear();
+        dotTwo();
     } else if (cardTopTitle.innerHTML === city) {
         cardTopTitle.innerHTML = area;
         leftButtonAppear();
+        dotOne();
     }
 }
 
+//確認画面
+document.getElementById("confirm").style.display = "none";
+function confirm_button() {
+    document.getElementById("confirm").style.display = "block";
+}
+
+function confirm_return() {
+    document.getElementById("confirm").style.display = "none";
+}
+
+
+//
 document.getElementById("skip").style.display = "none";
 document.getElementById("left-button").style.display = "none";
 function skipButtonAppear() {
@@ -54,4 +74,57 @@ function rightButtonAppear() {
     let right = document.getElementById("right-button");
     if (right.style.display === "none") right.style.display = "block";
     else right.style.display = "none";
+}
+
+//〇
+let dot1 = document.getElementById("dot1");
+let dot2 = document.getElementById("dot2");
+let dot3 = document.getElementById("dot3");
+let dot4 = document.getElementById("dot4");
+
+dot1.style.opacity = "100%";
+function dotOne() {
+    dot1.style.opacity = "100%";
+    dot2.style.opacity = "50%";
+    dot3.style.opacity = "50%";
+    dot4.style.opacity = "50%";
+}
+function dotTwo() {
+    dot2.style.opacity = "100%";
+    dot1.style.opacity = "50%";
+    dot3.style.opacity = "50%";
+    dot4.style.opacity = "50%";
+}
+function dotThree() {
+    dot3.style.opacity = "100%";
+    dot1.style.opacity = "50%";
+    dot2.style.opacity = "50%";
+    dot4.style.opacity = "50%";
+}
+function dotFour() {
+    dot4.style.opacity = "100%";
+    dot1.style.opacity = "50%";
+    dot3.style.opacity = "50%";
+    dot2.style.opacity = "50%";
+}
+
+//sidebar
+function sidebar() {
+    let body = document.body;
+    let hamburger = document.getElementById("hamburger");
+    // let bg = document.getElementById("bg");
+
+    hamburger.addEventListener('click', function() {
+        body.classList.toggle('nav-open');
+    });
+    // bg.addEventListener('click', function() {
+    //     body.classList.remove('nav-open');
+    // });
+}
+sidebar();
+
+function modal_button() {
+    let modal = document.getElementById("neme_form");
+    modal.style.display = "none";
+
 }
