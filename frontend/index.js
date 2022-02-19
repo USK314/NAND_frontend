@@ -15,8 +15,10 @@ function rightButton() {
         dotThree();
     } else if (cardTopTitle.innerHTML === restaurant) {
         cardTopTitle.innerHTML = hotel;
-        rightButtonAppear();
+        //rightButtonAppear();
         dotFour();
+    } else if (cardTopTitle.innerHTML === hotel) {
+        confirm_button();
     }
 }
 
@@ -41,6 +43,11 @@ function leftButton() {
         leftButtonAppear();
         dotOne();
     }
+}
+
+//確認画面
+function confirm_button() {
+    
 }
 
 document.getElementById("skip").style.display = "none";
@@ -108,3 +115,9 @@ function sidebar() {
     });
 }
 sidebar();
+
+function modal_button() {
+    let modal = document.getElementById("modal");
+    modal.style.display = "none";
+
+}
