@@ -2,6 +2,19 @@ import axios from "axios";
 
 const baseUrl = "https://nand-application.herokuapp.com/";
 
+axios.get('/user')
+.then(function (response) {
+    // handle success
+  console.log(response);
+})
+.catch(function (error) {
+    // handle error
+  console.log(error);
+})
+.finally(function () {
+    // always executed
+});
+
 // function getLocation(options) {
 //   return new Promise((resolve, reject) =>
 //     navigator.geolocation.getCurrentPosition(resolve, reject, options)
