@@ -124,7 +124,7 @@ function sidebar() {
 sidebar();
 
 function modal_button() {
-    let modal = document.getElementById("modal");
+    let modal = document.getElementById("neme_form");
     modal.style.display = "none";
 
 }
