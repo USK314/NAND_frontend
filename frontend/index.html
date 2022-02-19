@@ -86,27 +86,6 @@
         </div> -->
     <!-- name form end -->
 
-    <!-- confirm -->
-    <div class="modal" tabindex="-1" role="dialog">
-        <div class="modal-dialog" role="document">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <h5 class="modal-title">Modal title</h5>
-                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                        <span aria-hidden="true">&times;</span>
-                    </button>
-                </div>
-                <div class="modal-body">
-                    <p>Modal body text goes here.</p>
-                </div>
-                <div class="modal-footer">
-                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                    <button type="button" class="btn btn-primary">Save changes</button>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- confirm end -->
 
     <!-- sideblock -->
     <div class="sideblock">
@@ -133,6 +112,30 @@
     </div>
     <!-- sideblock end -->
 
+    <!-- confirm -->
+    <div class="modal" id="confirm" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">以下の内容でよろしいですか？</h5>
+                </div>
+                <div class="modal-body">
+                </div>
+                <div class="modal-text">
+                    <p>　　地域：</p>
+                    <p>　市町村：</p>
+                    <p>　飲食店：</p>
+                    <p>宿泊施設：</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal" onclick="confirm_return()">戻る</button>
+                    <button type="button" class="btn btn-primary">決定</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- confirm end -->
+    
     <!-- map -->
     <div id="map"></div>
     <!-- map end -->

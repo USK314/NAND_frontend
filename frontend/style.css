@@ -237,3 +237,12 @@
     z-index: 100;
     top: 5rem;
 }
+
+.modal-text {
+    padding-left : 2rem;
+    padding-right: 2rem;
+}
+
+.modal-backdrop {
+    modal-backdrop-opacity :0.5;
+}
