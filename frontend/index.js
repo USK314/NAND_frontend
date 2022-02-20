@@ -117,7 +117,7 @@ function getAreaThenShow() {
                 );
                 emarkers.push(emarker);
                 emarker.addListener('click', function () { // マーカーをクリックしたとき
-                    document.getElementById("card-text").innerText = point.name;
+                    document.getElementById("card-text").innerText = point.name+"総合振興局";
 
                     //マーカーをクリックしたらズームするあれ
                     let elat = point.緯度;
