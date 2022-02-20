@@ -1,0 +1,153 @@
+largeClass": [
+          {
+            "largeClassCode": "japan",
+            "largeClassName": "日本"
+          },
+          {
+            "middleClasses": [
+              {
+                "middleClass": [
+                  {
+                    "middleClassCode": "hokkaido",
+                    "middleClassName": "北海道"
+                  },
+                  {
+                    "smallClasses": [
+                      {
+                        "smallClass": [
+                          {
+                            "smallClassCode": "sapporo",
+                            "smallClassName": "札幌"
+                          },
+                          {
+                            "detailClasses": [
+                              {
+                                "detailClass": {
+                                  "detailClassCode": "A",
+                                  "detailClassName": "札幌・新札幌・琴似"
+                                }
+                              },
+                              {
+                                "detailClass": {
+                                  "detailClassCode": "B",
+                                  "detailClassName": "大通公園・時計台・狸小路"
+                                }
+                              },
+                              {
+                                "detailClass": {
+                                  "detailClassCode": "C",
+                                  "detailClassName": "すすきの・中島公園"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "smallClass": [
+                          {
+                            "smallClassCode": "jozankei",
+                            "smallClassName": "定山渓"
+                          }
+                        ]
+                      },
+                      {
+                        "smallClass": [
+                          {
+                            "smallClassCode": "wakkanai",
+                            "smallClassName": "稚内・留萌・利尻・礼文"
+                          }
+                        ]
+                      },
+                      {
+                        "smallClass": [
+                          {
+                            "smallClassCode": "abashiri",
+                            "smallClassName": "網走・紋別・北見・知床"
+                          }
+                        ]
+                      },
+                      {
+                        "smallClass": [
+                          {
+                            "smallClassCode": "kushiro",
+                            "smallClassName": "釧路・阿寒・川湯・根室"
+                          }
+                        ]
+                      },
+                      {
+                        "smallClass": [
+                          {
+                            "smallClassCode": "obihiro",
+                            "smallClassName": "帯広・十勝"
+                          }
+                        ]
+                      },
+                      {
+                        "smallClass": [
+                          {
+                            "smallClassCode": "hidaka",
+                            "smallClassName": "日高・えりも"
+                          }
+                        ]
+                      },
+                      {
+                        "smallClass": [
+                          {
+                            "smallClassCode": "furano",
+                            "smallClassName": "富良野・美瑛・トマム"
+                          }
+                        ]
+                      },
+                      {
+                        "smallClass": [
+                          {
+                            "smallClassCode": "asahikawa",
+                            "smallClassName": "旭川・層雲峡・旭岳"
+                          }
+                        ]
+                      },
+                      {
+                        "smallClass": [
+                          {
+                            "smallClassCode": "chitose",
+                            "smallClassName": "千歳・支笏・苫小牧・滝川・夕張・空知"
+                          }
+                        ]
+                      },
+                      {
+                        "smallClass": [
+                          {
+                            "smallClassCode": "otaru",
+                            "smallClassName": "小樽・キロロ・積丹・余市"
+                          }
+                        ]
+                      },
+                      {
+                        "smallClass": [
+                          {
+                            "smallClassCode": "niseko",
+                            "smallClassName": "ルスツ・ニセコ・倶知安"
+                          }
+                        ]
+                      },
+                      {
+                        "smallClass": [
+                          {
+                            "smallClassCode": "hakodate",
+                            "smallClassName": "函館・湯の川・大沼・奥尻"
+                          }
+                        ]
+                      },
+                      {
+                        "smallClass": [
+                          {
+                            "smallClassCode": "noboribetsu",
+                            "smallClassName": "洞爺・室蘭・登別"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },

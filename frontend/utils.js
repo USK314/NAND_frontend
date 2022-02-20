@@ -1,30 +1,30 @@
-import axios from "axios";
+// import axios from "axios";
 
-const baseUrl = "https://nand-application.herokuapp.com/";
+// const baseUrl = "https://nand-application.herokuapp.com/";
 
-axios.get('/users')
-.then(function (response) {
-  // handle success
-  console.log(response);
-})
-.catch(function (error) {
-    // handle error
-  console.log(error);
-})
-.finally(function () {
-    // always executed
-});
+// axios.get('/users')
+// .then(function (response) {
+//   // handle success
+//   console.log(response);
+// })
+// .catch(function (error) {
+//     // handle error
+//   console.log(error);
+// })
+// .finally(function () {
+//     // always executed
+// });
 
-axios.post('/user', {
-    firstName: 'Mineo',
-    lastName: 'Okuda'
-  })
-  .then(function (response) {
-    console.log(response);
-  })
-  .catch(function (error) {
-    console.log(error);
-  });
+// axios.post('/user', {
+//     firstName: 'Mineo',
+//     lastName: 'Okuda'
+//   })
+//   .then(function (response) {
+//     console.log(response);
+//   })
+//   .catch(function (error) {
+//     console.log(error);
+//   });
 
 
 

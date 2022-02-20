@@ -1,0 +1,1361 @@
+{
+    "pagingInfo": {
+        "recordCount": 127,
+        "pageCount": 5,
+        "page": 1,
+        "first": 1,
+        "last": 30
+    },
+    "hotels": [
+        {
+            "hotel": [
+                {
+                    "hotelBasicInfo": {
+                        "hotelNo": 148897,
+                        "hotelName": "ホテルＷＢＦグランデ旭川",
+                        "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/dQ4dX/?f_no=148897",
+                        "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/cHNRi/?f_no=148897&f_flg=PLAN",
+                        "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/TDZXm/?noTomariHotel=148897",
+                        "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=148897",
+                        "hotelKanaName": "ほてるＷＢＦぐらんであさひかわ",
+                        "hotelSpecial": "旭川市民に大好評の天然温泉「みなぴりかの湯」＆道北屈指の朝食ビュッフェが人気！",
+                        "hotelMinCharge": 3400,
+                        "latitude": 157536.63,
+                        "longitude": 512516.83,
+                        "postalCode": "070-0030",
+                        "address1": "北海道",
+                        "address2": "旭川市宮下通10丁目3-3",
+                        "telephoneNo": "0166-23-8000",
+                        "faxNo": "0166-23-7700",
+                        "access": "ＪＲ旭川駅東口より徒歩２分",
+                        "parkingInformation": "青空駐車場有　最大70台 (１泊1台　1000円)　※冬期は除雪の関係で少なくなります。",
+                        "nearestStation": "旭川",
+                        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/148897/148897.jpg",
+                        "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/148897.jpg",
+                        "roomImageUrl": null,
+                        "roomThumbnailUrl": null,
+                        "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/148897/148897map.gif",
+                        "reviewCount": 593,
+                        "reviewAverage": 4.56,
+                        "userReview": "エレベーターの使い方など、設備わからない客の立場に沿った細やかな気遣いをしてほしいです。部屋、風呂は最高です。あと部屋着、フリーサイズですが、私にはかなり小さかったため、大きめサイズがあると良…　2022-02-17 04:42:37投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=148897\" class=\"3click\">つづきはこちら</a>"
+                    }
+                },
+                {
+                    "hotelRatingInfo": {
+                        "serviceAverage": 4.31,
+                        "locationAverage": 4.51,
+                        "roomAverage": 4.43,
+                        "equipmentAverage": 4.23,
+                        "bathAverage": 4.72,
+                        "mealAverage": 4.45
+                    }
+                }
+            ]
+        },
+        {
+            "hotel": [
+                {
+                    "hotelBasicInfo": {
+                        "hotelNo": 147739,
+                        "hotelName": "ＪＲイン旭川",
+                        "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/dQ4dX/?f_no=147739",
+                        "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/cHNRi/?f_no=147739&f_flg=PLAN",
+                        "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/TDZXm/?noTomariHotel=147739",
+                        "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=147739",
+                        "hotelKanaName": "じぇいあーるいんあさひかわ",
+                        "hotelSpecial": "JR旭川駅&イオンモール直結。シモンズ社製マットレス等こだわりの寝具を用意。宿泊者専用大浴場完備。",
+                        "hotelMinCharge": 2850,
+                        "latitude": 157539.49,
+                        "longitude": 512500.79,
+                        "postalCode": "070-0030",
+                        "address1": "北海道",
+                        "address2": "旭川市宮下通7丁目2番5号",
+                        "telephoneNo": "0166-24-8888",
+                        "faxNo": "0166-73-8692",
+                        "access": "■JR旭川駅直結■　旭川空港、旭山動物園行きバス停はホテルの目の前　繁華街も徒歩圏内です♪",
+                        "parkingInformation": "イオンモール駐車場共用/自走式立体/入出庫自由/予約不要/車高2.2ｍまで/1泊800円/バイク不可",
+                        "nearestStation": "旭川",
+                        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147739/147739.jpg",
+                        "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/147739.jpg",
+                        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147739/147739_kan.jpg",
+                        "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/147739.jpg",
+                        "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147739/147739map.gif",
+                        "reviewCount": 1148,
+                        "reviewAverage": 4.52,
+                        "userReview": "駅近なのに駐車場は800円で出し入れ自由だし、てか夕食事はイオン内や周辺で済むし、朝食も美味しいかった。お部屋タイプおまかせにしたら…上階付近のツインのお部屋で、広々キレイで景色も良く、夜はサ…　2022-01-23 16:43:48投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=147739\" class=\"3click\">つづきはこちら</a>"
+                    }
+                },
+                {
+                    "hotelRatingInfo": {
+                        "serviceAverage": 4.33,
+                        "locationAverage": 4.84,
+                        "roomAverage": 4.47,
+                        "equipmentAverage": 4.32,
+                        "bathAverage": 4.2,
+                        "mealAverage": 3.72
+                    }
+                }
+            ]
+        },
+        {
+            "hotel": [
+                {
+                    "hotelBasicInfo": {
+                        "hotelNo": 172612,
+                        "hotelName": "ホテルウィングインターナショナル旭川駅前",
+                        "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/dQ4dX/?f_no=172612",
+                        "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/cHNRi/?f_no=172612&f_flg=PLAN",
+                        "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/TDZXm/?noTomariHotel=172612",
+                        "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=172612",
+                        "hotelKanaName": "うぃんぐいんたーなしょなる　あさひかわえきまえ",
+                        "hotelSpecial": "旭川駅前徒歩2分◆イオンモール旭川駅前メインエントランス出て正面の立地！",
+                        "hotelMinCharge": 2083,
+                        "latitude": 157544.91,
+                        "longitude": 512503.69,
+                        "postalCode": "070-0030",
+                        "address1": "北海道",
+                        "address2": "旭川市宮下通7-3112",
+                        "telephoneNo": "0166-27-5330",
+                        "faxNo": "0166-27-5331",
+                        "access": "旭川駅より徒歩にて約2分",
+                        "parkingInformation": "契約駐車場（イオンモール旭川駅前）1泊1000円。出庫毎に料金がかかります。フロントにてご精算下さい",
+                        "nearestStation": "旭川",
+                        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/172612/172612.jpg",
+                        "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/172612.jpg",
+                        "roomImageUrl": null,
+                        "roomThumbnailUrl": null,
+                        "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/172612/172612map.gif",
+                        "reviewCount": 433,
+                        "reviewAverage": 4.2,
+                        "userReview": "まあいいですね！　2022-02-09 17:18:23投稿"
+                    }
+                },
+                {
+                    "hotelRatingInfo": {
+                        "serviceAverage": 4,
+                        "locationAverage": 4.71,
+                        "roomAverage": 3.93,
+                        "equipmentAverage": 3.87,
+                        "bathAverage": 3.39,
+                        "mealAverage": 4.45
+                    }
+                }
+            ]
+        },
+        {
+            "hotel": [
+                {
+                    "hotelBasicInfo": {
+                        "hotelNo": 104566,
+                        "hotelName": "天然温泉　神威の湯　ドーミーイン旭川（ドーミーイン・御宿野乃　ホテルズグループ）",
+                        "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/dQ4dX/?f_no=104566",
+                        "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/cHNRi/?f_no=104566&f_flg=PLAN",
+                        "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/TDZXm/?noTomariHotel=104566",
+                        "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=104566",
+                        "hotelKanaName": "てんねんおんせん　かむいのゆ　どーみーいんあさひかわ",
+                        "hotelSpecial": "全室wifi利用可　天然温泉露天風呂付大浴場入り放題！繁華街も近くビジネス・観光に最適です。",
+                        "hotelMinCharge": 2745,
+                        "latitude": 157566.47,
+                        "longitude": 512506.28,
+                        "postalCode": "070-0035",
+                        "address1": "北海道",
+                        "address2": "旭川市5条通6丁目964-1",
+                        "telephoneNo": "0166-27-5489",
+                        "faxNo": "0166-27-5656",
+                        "access": "ＪＲ　旭川駅より徒歩にて１０分／旭川空港より３５分",
+                        "parkingInformation": "先着順、普通車1室1台1泊800円にてご案内しております。満車時は提携駐車場にご案内致します",
+                        "nearestStation": "旭川",
+                        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/104566/104566.jpg",
+                        "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/104566.jpg",
+                        "roomImageUrl": null,
+                        "roomThumbnailUrl": null,
+                        "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/104566/104566map.gif",
+                        "reviewCount": 2179,
+                        "reviewAverage": 4.45,
+                        "userReview": "部屋も綺麗で温泉も良かったです！夜鳴きそば最高でした次も又泊まりたいです^_^　2022-02-18 03:27:46投稿"
+                    }
+                },
+                {
+                    "hotelRatingInfo": {
+                        "serviceAverage": 4.25,
+                        "locationAverage": 4.3,
+                        "roomAverage": 4.29,
+                        "equipmentAverage": 4.12,
+                        "bathAverage": 4.35,
+                        "mealAverage": 4.28
+                    }
+                }
+            ]
+        },
+        {
+            "hotel": [
+                {
+                    "hotelBasicInfo": {
+                        "hotelNo": 50750,
+                        "hotelName": "天然温泉プレミアホテル―ＣＡＢＩＮ―旭川",
+                        "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/dQ4dX/?f_no=50750",
+                        "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/cHNRi/?f_no=50750&f_flg=PLAN",
+                        "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/TDZXm/?noTomariHotel=50750",
+                        "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=50750",
+                        "hotelKanaName": "てんねんおんせんぷれみあほてる　きゃびん　あさひかわ",
+                        "hotelSpecial": "天然温泉大浴場は肌の新陳代謝を促す湯、湯上りの清涼感が特長です。作務衣は全館で利用可。",
+                        "hotelMinCharge": 2300,
+                        "latitude": 157547.69,
+                        "longitude": 512501.13,
+                        "postalCode": "070-0031",
+                        "address1": "北海道",
+                        "address2": "旭川市1条通7丁目",
+                        "telephoneNo": "0166-73-7430",
+                        "faxNo": "0166-27-0085",
+                        "access": "ＪＲ旭川駅『北口(西側)』より徒歩３分",
+                        "parkingInformation": "先着順800円~1,100円車種により異なります。満車時とワゴン、バイクは徒歩圏内の提携先へご案内。",
+                        "nearestStation": "旭川",
+                        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/50750/50750.jpg",
+                        "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/50750.jpg",
+                        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/50750/50750_twi.jpg",
+                        "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/50750.jpg",
+                        "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/50750/50750map.gif",
+                        "reviewCount": 3850,
+                        "reviewAverage": 4.28,
+                        "userReview": "駅やコンビニ、イオンも近く駐車場もあり便利でした。お部屋もキレイで落ち着く雰囲気でした。アメニティも充実していて良かったです。　2022-02-17 22:00:14投稿"
+                    }
+                },
+                {
+                    "hotelRatingInfo": {
+                        "serviceAverage": 4.13,
+                        "locationAverage": 4.56,
+                        "roomAverage": 3.85,
+                        "equipmentAverage": 4.05,
+                        "bathAverage": 4.28,
+                        "mealAverage": 4.31
+                    }
+                }
+            ]
+        },
+        {
+            "hotel": [
+                {
+                    "hotelBasicInfo": {
+                        "hotelNo": 182715,
+                        "hotelName": "ホテルアマネク旭川〜展望浴場「四季の湯」〜（２０２１年１０月８日グランドオープン）",
+                        "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/dQ4dX/?f_no=182715",
+                        "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/cHNRi/?f_no=182715&f_flg=PLAN",
+                        "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/TDZXm/?noTomariHotel=182715",
+                        "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=182715",
+                        "hotelKanaName": "ほてるあまねくあさひかわ　てんぼうよくじょうしきのゆ",
+                        "hotelSpecial": "旭川駅前新オープン！買物公園沿いに位置し最上階に展望浴場。北欧風デザインの寛ぎ空間。",
+                        "hotelMinCharge": 2100,
+                        "latitude": 157545.86,
+                        "longitude": 512508.32,
+                        "postalCode": "070-0031",
+                        "address1": "北海道",
+                        "address2": "旭川市1条通8丁目218",
+                        "telephoneNo": "0166-76-5430",
+                        "faxNo": "0166-76-5431",
+                        "access": "JR旭川駅徒歩3分",
+                        "parkingInformation": "提携のD-Parkingが３Fホテルロビーと直結。普通車24時間迄1000円",
+                        "nearestStation": "旭川",
+                        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/182715/182715.jpg",
+                        "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/182715.jpg",
+                        "roomImageUrl": null,
+                        "roomThumbnailUrl": null,
+                        "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/182715/182715map.gif",
+                        "reviewCount": 106,
+                        "reviewAverage": 3.84,
+                        "userReview": "旭川の中心地から近いため立地は◎。近くにコンビニやごはん屋さんがあるのは有り難かった。フロントの対応も良かった。隣の部屋の音が聞こえずゆっくり休めた。防音ばっちり。今回で２回目の利用。安いのに値段以上…　2022-02-19 17:23:36投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=182715\" class=\"3click\">つづきはこちら</a>"
+                    }
+                },
+                {
+                    "hotelRatingInfo": {
+                        "serviceAverage": 3.62,
+                        "locationAverage": 4.69,
+                        "roomAverage": 3.92,
+                        "equipmentAverage": 3.63,
+                        "bathAverage": 3.44,
+                        "mealAverage": 4.03
+                    }
+                }
+            ]
+        },
+        {
+            "hotel": [
+                {
+                    "hotelBasicInfo": {
+                        "hotelNo": 40960,
+                        "hotelName": "ホテル大雪　ＯＮＳＥＮ＆ＣＡＮＹＯＮ　ＲＥＳＯＲＴ",
+                        "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/dQ4dX/?f_no=40960",
+                        "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/cHNRi/?f_no=40960&f_flg=PLAN",
+                        "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/TDZXm/?noTomariHotel=40960",
+                        "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=40960",
+                        "hotelKanaName": "ほてるたいせつ　おんせん　あんど　きゃにおん　りぞーと",
+                        "hotelSpecial": "層雲峡温泉で一番高台にあり、道内唯一源泉かけ流しの３つの大浴場と２つの露天風呂を持ったホテルです。",
+                        "hotelMinCharge": 6800,
+                        "latitude": 157402.62,
+                        "longitude": 514636.60,
+                        "postalCode": "078-1701",
+                        "address1": "北海道",
+                        "address2": "上川郡上川町層雲峡",
+                        "telephoneNo": "01658-5-3211",
+                        "faxNo": "01658-5-3420",
+                        "access": "車のお越しで、札幌からは約１８０分。旭川空港からは約１００分。旭山動物園からは８０分。",
+                        "parkingInformation": "有り　１００台　無料　予約不要",
+                        "nearestStation": "上川",
+                        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40960/40960.jpg",
+                        "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/40960.jpg",
+                        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40960/40960_kan.jpg",
+                        "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/40960.jpg",
+                        "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40960/40960map.gif",
+                        "reviewCount": 1032,
+                        "reviewAverage": 4.33,
+                        "userReview": "部屋食とても美味しかったホテルの方は皆親切で感じがいいです。層雲峡宿泊の時は必ず泊まる、大好きな温泉宿です。　2022-02-14 17:38:46投稿"
+                    }
+                },
+                {
+                    "hotelRatingInfo": {
+                        "serviceAverage": 4.21,
+                        "locationAverage": 4.27,
+                        "roomAverage": 4.1,
+                        "equipmentAverage": 3.97,
+                        "bathAverage": 4.33,
+                        "mealAverage": 4.43
+                    }
+                }
+            ]
+        },
+        {
+            "hotel": [
+                {
+                    "hotelBasicInfo": {
+                        "hotelNo": 166948,
+                        "hotelName": "ワイズホテル　旭川駅前",
+                        "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/dQ4dX/?f_no=166948",
+                        "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/cHNRi/?f_no=166948&f_flg=PLAN",
+                        "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/TDZXm/?noTomariHotel=166948",
+                        "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=166948",
+                        "hotelKanaName": "わいず　ほてるあさひかわえきまえ",
+                        "hotelSpecial": "ゆったりした全室禁煙の客室とくつろぎのラウンジ、旅の疲れを癒す最上階の大浴場とサウナ。",
+                        "hotelMinCharge": 1500,
+                        "latitude": 157537.68,
+                        "longitude": 512509.77,
+                        "postalCode": "070-0030",
+                        "address1": "北海道",
+                        "address2": "旭川市宮下通9-2-17　",
+                        "telephoneNo": "0166-29-3255",
+                        "faxNo": "0166-24-0288",
+                        "access": "JR旭川駅隣接、旭山動物園や旭川空港行が発着するバス停はホテル目の前の好立地♪",
+                        "parkingInformation": "有料駐車場有　ホテル裏（タイムズツルハビル旭川駅前）１泊１２００円　マップコード「79343232」",
+                        "nearestStation": "旭川",
+                        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/166948/166948.jpg",
+                        "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/166948.jpg",
+                        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/166948/166948_room.jpg",
+                        "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/166948.jpg",
+                        "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/166948/166948map.gif",
+                        "reviewCount": 514,
+                        "reviewAverage": 4.39,
+                        "userReview": "JR旭川駅に隣接されている温泉付きのホテルです。お気に入りでいつも利用させていただいています。新しく、お隣にはドラックストアもありとっても便利です。　2022-02-16 21:53:40投稿"
+                    }
+                },
+                {
+                    "hotelRatingInfo": {
+                        "serviceAverage": 4.07,
+                        "locationAverage": 4.73,
+                        "roomAverage": 4.47,
+                        "equipmentAverage": 3.96,
+                        "bathAverage": 4.01,
+                        "mealAverage": 4.07
+                    }
+                }
+            ]
+        },
+        {
+            "hotel": [
+                {
+                    "hotelBasicInfo": {
+                        "hotelNo": 224,
+                        "hotelName": "アートホテル旭川",
+                        "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/dQ4dX/?f_no=224",
+                        "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/cHNRi/?f_no=224&f_flg=PLAN",
+                        "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/TDZXm/?noTomariHotel=224",
+                        "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=224",
+                        "hotelKanaName": "あーとほてる　あさひかわ",
+                        "hotelSpecial": "最上階のビュッフェレストランが好評！館内にサウナ＆スパ施設完備♪全客室Wi-Fi可！",
+                        "hotelMinCharge": 2100,
+                        "latitude": 157572.17,
+                        "longitude": 512512.13,
+                        "postalCode": "070-0037",
+                        "address1": "北海道",
+                        "address2": "旭川市7条通6丁目29番地2",
+                        "telephoneNo": "0166-25-8811",
+                        "faxNo": "0166-25-8200",
+                        "access": "旭川駅西側北口より車で5分。旭川鷹栖ＩＣより車で15分。旭川空港よりバスで40分（7条昭和通停留所 ホテル前）",
+                        "parkingInformation": "立体駐車場96台(車高制限155cm)・屋外提携駐車場あり(徒歩1〜5分）　[1,000円／1泊]",
+                        "nearestStation": "旭川",
+                        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/224/224.jpg",
+                        "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/224.jpg",
+                        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/224/224_spa.jpg",
+                        "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/224.jpg",
+                        "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/224/224map.gif",
+                        "reviewCount": 2404,
+                        "reviewAverage": 4.05,
+                        "userReview": "夕食が、バイキングから御膳に変更となったがその内容が良かった。ボリュームもあり美味しかった。あとデザートが有れば最高だった(笑)ここからは個人的意見となるかもしれないが、旭川での宿泊では数回利…　2022-02-18 20:44:52投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=224\" class=\"3click\">つづきはこちら</a>"
+                    }
+                },
+                {
+                    "hotelRatingInfo": {
+                        "serviceAverage": 4,
+                        "locationAverage": 4.18,
+                        "roomAverage": 4.03,
+                        "equipmentAverage": 3.89,
+                        "bathAverage": 3.63,
+                        "mealAverage": 4.34
+                    }
+                }
+            ]
+        },
+        {
+            "hotel": [
+                {
+                    "hotelBasicInfo": {
+                        "hotelNo": 151372,
+                        "hotelName": "ホテルルートインＧｒａｎｄ旭川駅前",
+                        "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/dQ4dX/?f_no=151372",
+                        "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/cHNRi/?f_no=151372&f_flg=PLAN",
+                        "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/TDZXm/?noTomariHotel=151372",
+                        "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=151372",
+                        "hotelKanaName": "るーといんぐらんどあさひかわえきまえ",
+                        "hotelSpecial": "ＪＲ旭川駅より徒歩２分。全室コンフォート仕様。天然温泉大浴場（加水・加温・循環ろ過）あり。",
+                        "hotelMinCharge": 3050,
+                        "latitude": 157543.80,
+                        "longitude": 512508.13,
+                        "postalCode": "070-0030",
+                        "address1": "北海道",
+                        "address2": "旭川市宮下通8-1962-1",
+                        "telephoneNo": "050-5847-7720",
+                        "faxNo": "0166-29-6781",
+                        "access": "ＪＲ　旭川駅より徒歩にて約２分",
+                        "parkingInformation": "有り　１７６台　８００円（税込み／泊）　予約不可　先着順　バイク不可（近隣駐車場へのご案内）",
+                        "nearestStation": "旭川",
+                        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/151372/151372.jpg",
+                        "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/151372.jpg",
+                        "roomImageUrl": null,
+                        "roomThumbnailUrl": null,
+                        "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/151372/151372map.gif",
+                        "reviewCount": 600,
+                        "reviewAverage": 4.02,
+                        "userReview": "温泉は広く最上階からの景色もサウナも素晴らしかったのですが水風呂がないのは少し残念でした。ただ立派が旭川駅すぐで良かったです。ありがとうございました！　2022-01-30 23:39:07投稿"
+                    }
+                },
+                {
+                    "hotelRatingInfo": {
+                        "serviceAverage": 3.93,
+                        "locationAverage": 4.65,
+                        "roomAverage": 4.14,
+                        "equipmentAverage": 3.77,
+                        "bathAverage": 4.08,
+                        "mealAverage": 4.21
+                    }
+                }
+            ]
+        },
+        {
+            "hotel": [
+                {
+                    "hotelBasicInfo": {
+                        "hotelNo": 165109,
+                        "hotelName": "ＯＭＯ７旭川　ｂｙ　星野リゾート",
+                        "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/dQ4dX/?f_no=165109",
+                        "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/cHNRi/?f_no=165109&f_flg=PLAN",
+                        "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/TDZXm/?noTomariHotel=165109",
+                        "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=165109",
+                        "hotelKanaName": "おもせぶんあさひかわ　ばいほしのりぞーと",
+                        "hotelSpecial": "寝るだけでは終わらせない、旅先をまるごと楽しむディープなご近所の魅力と、仕掛け満載のホテルステイ",
+                        "hotelMinCharge": 2250,
+                        "latitude": 157563.61,
+                        "longitude": 512524.50,
+                        "postalCode": "070-0036",
+                        "address1": "北海道",
+                        "address2": "旭川市6条通9丁目",
+                        "telephoneNo": "0166-24-2111",
+                        "faxNo": "0166-24-2114",
+                        "access": "空港直通バス50分、ホテル前下車。ＪＲ旭川駅東口正面大通り沿いを直進徒歩13分。旭川の中心地、買物公園徒歩2分の好立地。",
+                        "parkingInformation": "有り　66台　1000円（税込／泊）先着順　徒歩圏内提携駐車場有",
+                        "nearestStation": "旭川",
+                        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/165109/165109.jpg",
+                        "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/165109.jpg",
+                        "roomImageUrl": null,
+                        "roomThumbnailUrl": null,
+                        "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/165109/165109map.gif",
+                        "reviewCount": 626,
+                        "reviewAverage": 3.92,
+                        "userReview": "プールは要らないので大浴場が欲しかったです。　2022-02-15 02:17:11投稿"
+                    }
+                },
+                {
+                    "hotelRatingInfo": {
+                        "serviceAverage": 4.31,
+                        "locationAverage": 4,
+                        "roomAverage": 3.86,
+                        "equipmentAverage": 3.95,
+                        "bathAverage": 3.61,
+                        "mealAverage": 4.58
+                    }
+                }
+            ]
+        },
+        {
+            "hotel": [
+                {
+                    "hotelBasicInfo": {
+                        "hotelNo": 38928,
+                        "hotelName": "層雲峡温泉　層雲峡観光ホテル",
+                        "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/dQ4dX/?f_no=38928",
+                        "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/cHNRi/?f_no=38928&f_flg=PLAN",
+                        "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/TDZXm/?noTomariHotel=38928",
+                        "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=38928",
+                        "hotelKanaName": "そううんきょうおんせん　そううんきょう　かんこうほてる",
+                        "hotelSpecial": "北海道最大級・敷地面積200坪の大露天風呂『宇旅璃（うたり）』は湯衣着用の混浴スタイル",
+                        "hotelMinCharge": 4840,
+                        "latitude": 157413.66,
+                        "longitude": 514616.42,
+                        "postalCode": "078-1797",
+                        "address1": "北海道",
+                        "address2": "上川郡上川町層雲峡",
+                        "telephoneNo": "01658-5-3101",
+                        "faxNo": "01658-5-3046",
+                        "access": "【無料送迎】スマイルホテル旭川前より運行中※要予約　【お車】紋別自動車道　上川・層雲峡ICより車で25分",
+                        "parkingInformation": "有り　７０台　無料　",
+                        "nearestStation": "上川",
+                        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38928/38928.jpg",
+                        "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/38928.jpg",
+                        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38928/38928_bai.jpg",
+                        "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/38928.jpg",
+                        "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38928/38928map.gif",
+                        "reviewCount": 479,
+                        "reviewAverage": 4,
+                        "userReview": "氷瀑祭りで利用しました！会場も近く、コンビニも最寄りの為とても便利な場所です！また利用します！　2022-02-14 20:58:08投稿"
+                    }
+                },
+                {
+                    "hotelRatingInfo": {
+                        "serviceAverage": 3.98,
+                        "locationAverage": 4.15,
+                        "roomAverage": 3.63,
+                        "equipmentAverage": 3.76,
+                        "bathAverage": 4.34,
+                        "mealAverage": 3.85
+                    }
+                }
+            ]
+        },
+        {
+            "hotel": [
+                {
+                    "hotelBasicInfo": {
+                        "hotelNo": 29716,
+                        "hotelName": "層雲峡温泉　朝陽リゾートホテル",
+                        "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/dQ4dX/?f_no=29716",
+                        "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/cHNRi/?f_no=29716&f_flg=PLAN",
+                        "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/TDZXm/?noTomariHotel=29716",
+                        "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=29716",
+                        "hotelKanaName": "そううんきょうおんせん　ちょうよう　りぞーとほてる",
+                        "hotelSpecial": "２種の源泉「白濁の湯」と「赤茶の湯」は層雲峡エリアで当館だけ！貸切風呂と岩盤浴も利用できます。",
+                        "hotelMinCharge": 3300,
+                        "latitude": 157419.51,
+                        "longitude": 514606.20,
+                        "postalCode": "078-1701",
+                        "address1": "北海道",
+                        "address2": "上川郡上川町層雲峡温泉",
+                        "telephoneNo": "0570-026572",
+                        "faxNo": "01658-5-3922",
+                        "access": "スマイルホテル旭川より無料送迎バス運行中/JR上川駅下車　道北バスで約３０分",
+                        "parkingInformation": "有　１００台　無料　先着順",
+                        "nearestStation": "上川",
+                        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29716/29716.jpg",
+                        "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/29716.jpg",
+                        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29716/29716_k.jpg",
+                        "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/29716.jpg",
+                        "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29716/29716map.gif",
+                        "reviewCount": 1854,
+                        "reviewAverage": 3.98,
+                        "userReview": "いろんな国の料理を食べれるバイキングが楽しかったです。　2022-02-12 19:13:35投稿"
+                    }
+                },
+                {
+                    "hotelRatingInfo": {
+                        "serviceAverage": 4.04,
+                        "locationAverage": 4.11,
+                        "roomAverage": 3.58,
+                        "equipmentAverage": 3.74,
+                        "bathAverage": 4.38,
+                        "mealAverage": 3.91
+                    }
+                }
+            ]
+        },
+        {
+            "hotel": [
+                {
+                    "hotelBasicInfo": {
+                        "hotelNo": 4652,
+                        "hotelName": "ホテルクレッセント旭川",
+                        "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/dQ4dX/?f_no=4652",
+                        "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/cHNRi/?f_no=4652&f_flg=PLAN",
+                        "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/TDZXm/?noTomariHotel=4652",
+                        "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=4652",
+                        "hotelKanaName": "くれっせんと　あさひかわ",
+                        "hotelSpecial": "■アパ パートナーホテルズ加盟店■繁華街に近く、ビジネス利用、ファミリーやカップル旅行に最適です。",
+                        "hotelMinCharge": 1900,
+                        "latitude": 157561.27,
+                        "longitude": 512518.03,
+                        "postalCode": "070-0035",
+                        "address1": "北海道",
+                        "address2": "旭川市５条８丁目緑橋通",
+                        "telephoneNo": "0166-27-1111",
+                        "faxNo": "0166-29-2222",
+                        "access": "ＪＲ函館本線旭川駅下車徒歩７分。道央自動車道旭川鷹栖ＩＣから車で１５分。旭川空港からのバス停留所も徒歩２分にございます。",
+                        "parkingInformation": "有り １２台 ８００円／他契約駐車場有り ８００円　※バス、トラックなどの大型車両は停められません。",
+                        "nearestStation": "旭川",
+                        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/4652/4652.jpg",
+                        "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/4652.jpg",
+                        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/4652/4652_heya.jpg",
+                        "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/4652.jpg",
+                        "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/4652/4652map.gif",
+                        "reviewCount": 1258,
+                        "reviewAverage": 4.11,
+                        "userReview": "お土産の肉はとても〇大浴場が使えなくなったのは、とても残念です　2022-02-19 21:52:37投稿"
+                    }
+                },
+                {
+                    "hotelRatingInfo": {
+                        "serviceAverage": 3.94,
+                        "locationAverage": 4.23,
+                        "roomAverage": 3.96,
+                        "equipmentAverage": 3.81,
+                        "bathAverage": 3.33,
+                        "mealAverage": 4.14
+                    }
+                }
+            ]
+        },
+        {
+            "hotel": [
+                {
+                    "hotelBasicInfo": {
+                        "hotelNo": 128580,
+                        "hotelName": "天然温泉　大雪山の湯　スーパーホテル旭川",
+                        "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/dQ4dX/?f_no=128580",
+                        "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/cHNRi/?f_no=128580&f_flg=PLAN",
+                        "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/TDZXm/?noTomariHotel=128580",
+                        "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=128580",
+                        "hotelKanaName": "てんねんおんせん　だいせつざんのゆ　すーぱーほてるあさひかわ",
+                        "hotelSpecial": "JR旭川駅徒歩5分　■朝食無料　■天然温泉完備　出張に　観光に　旭川‘新‘スタンダードの誕生です",
+                        "hotelMinCharge": 2020,
+                        "latitude": 157537.90,
+                        "longitude": 512525.59,
+                        "postalCode": "070-0030",
+                        "address1": "北海道",
+                        "address2": "旭川市宮下通11-767-3",
+                        "telephoneNo": "0166-21-9000",
+                        "faxNo": "0166-21-9500",
+                        "access": "旭川駅 徒歩7分 旭川鷹栖ＩＣより車で15分 旭川空港より車で30分 バスで40分",
+                        "parkingInformation": "先着61台迄：1泊1台600円【冬季】12月〜3月：無料※満車の場合は近隣コインパーキングにて実費有",
+                        "nearestStation": "旭川",
+                        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/128580/128580.jpg",
+                        "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/128580.jpg",
+                        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/128580/128580_kya.jpg",
+                        "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/128580.jpg",
+                        "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/128580/128580map.gif",
+                        "reviewCount": 1025,
+                        "reviewAverage": 4.24,
+                        "userReview": "フロントの対応や部屋の仕様など、全体的に気配りの行き届いた居心地の良い対応でした。各種充電ケーブルやUSBハブが部屋に備え付けられていて、機器を繋ぐだけで良いというのは特にありがたかったです。…　2022-02-18 06:04:19投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=128580\" class=\"3click\">つづきはこちら</a>"
+                    }
+                },
+                {
+                    "hotelRatingInfo": {
+                        "serviceAverage": 4.24,
+                        "locationAverage": 4,
+                        "roomAverage": 3.86,
+                        "equipmentAverage": 4.15,
+                        "bathAverage": 3.67,
+                        "mealAverage": 4.11
+                    }
+                }
+            ]
+        },
+        {
+            "hotel": [
+                {
+                    "hotelBasicInfo": {
+                        "hotelNo": 147616,
+                        "hotelName": "ホテルマイステイズ名寄",
+                        "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/dQ4dX/?f_no=147616",
+                        "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/cHNRi/?f_no=147616&f_flg=PLAN",
+                        "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/TDZXm/?noTomariHotel=147616",
+                        "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=147616",
+                        "hotelKanaName": "ほてるまいすていずなよろ",
+                        "hotelSpecial": "名寄駅から徒歩10分！市内中心部に位置し、ビジネスや観光の拠点に最適な立地",
+                        "hotelMinCharge": 3260,
+                        "latitude": 159657.14,
+                        "longitude": 512865.08,
+                        "postalCode": "096-0013",
+                        "address1": "北海道",
+                        "address2": "名寄市西3条南5丁目11番地",
+                        "telephoneNo": "01654-8-8100",
+                        "faxNo": "01654-8-8110",
+                        "access": "ＪＲ　名寄駅より徒歩にて約10分",
+                        "parkingInformation": "お車は屋外に約25台、ホテルより徒歩1分の第二・第三駐車場に計30台、無料で駐車可能です。",
+                        "nearestStation": "名寄",
+                        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147616/147616.jpg",
+                        "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/147616.jpg",
+                        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147616/147616_room.jpg",
+                        "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/147616.jpg",
+                        "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147616/147616map.gif",
+                        "reviewCount": 276,
+                        "reviewAverage": 4.08,
+                        "userReview": "日中や夜のコーヒーサービスはとても嬉しいです。寒い日が続いていたのでお風呂の湯加減にリラックスできました。雪が多い地域なのに除雪が行き届いていて駐車も安心でした。　2022-01-28 19:20:50投稿"
+                    }
+                },
+                {
+                    "hotelRatingInfo": {
+                        "serviceAverage": 3.96,
+                        "locationAverage": 4.21,
+                        "roomAverage": 3.79,
+                        "equipmentAverage": 3.92,
+                        "bathAverage": 4.06,
+                        "mealAverage": 0
+                    }
+                }
+            ]
+        },
+        {
+            "hotel": [
+                {
+                    "hotelBasicInfo": {
+                        "hotelNo": 52319,
+                        "hotelName": "層雲閣グランドホテル",
+                        "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/dQ4dX/?f_no=52319",
+                        "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/cHNRi/?f_no=52319&f_flg=PLAN",
+                        "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/TDZXm/?noTomariHotel=52319",
+                        "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=52319",
+                        "hotelKanaName": "そううんかくぐらんどほてる",
+                        "hotelSpecial": "2021年4月17日（土）新レストランOPEN！ライブ感あふれるオープンキッチン！メニューも一新！",
+                        "hotelMinCharge": 8400,
+                        "latitude": 157406.79,
+                        "longitude": 514645.92,
+                        "postalCode": "078-1701",
+                        "address1": "北海道",
+                        "address2": "上川郡上川町層雲峡温泉",
+                        "telephoneNo": "01658-5-3111",
+                        "faxNo": "01658-5-3302",
+                        "access": "※旭山動物園より車で９０分※ＪＲ石北本線　上川駅よりローカルバスで３５分※上川層雲峡ICより車で２０分",
+                        "parkingInformation": "有り　９０台　無料　予約不要",
+                        "nearestStation": "上川",
+                        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/52319/52319.jpg",
+                        "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/52319.jpg",
+                        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/52319/52319_wa.jpg",
+                        "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/52319.jpg",
+                        "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/52319/52319map.gif",
+                        "reviewCount": 605,
+                        "reviewAverage": 4.37,
+                        "userReview": "料理がどれも美味しい！！夕食のビュッフェにシュークリームが出ました。5歳の息子は朝食時にシュークリームシュークリームと愚図りました。デザート担当のシェフと思われる方がそれを見ていたのか出してくれた…　2022-01-31 21:30:15投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=52319\" class=\"3click\">つづきはこちら</a>"
+                    }
+                },
+                {
+                    "hotelRatingInfo": {
+                        "serviceAverage": 4.41,
+                        "locationAverage": 4.3,
+                        "roomAverage": 3.85,
+                        "equipmentAverage": 3.7,
+                        "bathAverage": 4.22,
+                        "mealAverage": 4.44
+                    }
+                }
+            ]
+        },
+        {
+            "hotel": [
+                {
+                    "hotelBasicInfo": {
+                        "hotelNo": 38810,
+                        "hotelName": "ルートイン旭川駅前一条通",
+                        "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/dQ4dX/?f_no=38810",
+                        "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/cHNRi/?f_no=38810&f_flg=PLAN",
+                        "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/TDZXm/?noTomariHotel=38810",
+                        "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=38810",
+                        "hotelKanaName": "るーといん　あさひかわえきまえいちじょうどおり",
+                        "hotelSpecial": "■旭川駅から徒歩５分■朝食バイキング無料■加湿空気清浄機全室完備■男女別大浴場あり■WAONで支払可",
+                        "hotelMinCharge": 3150,
+                        "latitude": 157549.65,
+                        "longitude": 512495.40,
+                        "postalCode": "070-0031",
+                        "address1": "北海道",
+                        "address2": "旭川市1条通6町目39-1",
+                        "telephoneNo": "0166-21-5011",
+                        "faxNo": "0166-21-5012",
+                        "access": "ＪＲ　函館本線　旭川駅から徒歩５分／道央自動車道旭川鷹柄ＩＣより約７㎞車で２０分",
+                        "parkingInformation": "有り★１台１泊６００円〜１100円★バイク駐輪場なし★大型車は要予約（ホテルへご連絡下さい）",
+                        "nearestStation": "旭川",
+                        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38810/38810.jpg",
+                        "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/38810.jpg",
+                        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38810/38810_he.jpg",
+                        "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/38810.jpg",
+                        "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38810/38810map.gif",
+                        "reviewCount": 1246,
+                        "reviewAverage": 4.19,
+                        "userReview": "私用で連泊で宿泊しました。ほとんど部屋にいましたが静かで快適でした。空気清浄機も常備してあり設備はとても良いです。エレベーターは2機あり高速なので待ち時間も少なく、あまり他の人と一緒に乗らなくてもいい…　2022-02-16 10:05:03投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=38810\" class=\"3click\">つづきはこちら</a>"
+                    }
+                },
+                {
+                    "hotelRatingInfo": {
+                        "serviceAverage": 4,
+                        "locationAverage": 4.2,
+                        "roomAverage": 3.79,
+                        "equipmentAverage": 3.83,
+                        "bathAverage": 3.84,
+                        "mealAverage": 3.88
+                    }
+                }
+            ]
+        },
+        {
+            "hotel": [
+                {
+                    "hotelBasicInfo": {
+                        "hotelNo": 147138,
+                        "hotelName": "グランドホテル藤花",
+                        "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/dQ4dX/?f_no=147138",
+                        "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/cHNRi/?f_no=147138&f_flg=PLAN",
+                        "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/TDZXm/?noTomariHotel=147138",
+                        "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=147138",
+                        "hotelKanaName": "ぐらんどほてるふじか",
+                        "hotelSpecial": "静かな環境とくつろぎの空間。スタッフのまごころを込めたおもてなしがここにあります。",
+                        "hotelMinCharge": 4180,
+                        "latitude": 159657.75,
+                        "longitude": 512855.42,
+                        "postalCode": "096-0015",
+                        "address1": "北海道",
+                        "address2": "名寄市西5条南4丁目",
+                        "telephoneNo": "01654-3-2323",
+                        "faxNo": "01654-3-2329",
+                        "access": "名寄駅より徒歩にて約15分",
+                        "parkingInformation": "有り　約100台　無料　予約不要",
+                        "nearestStation": "名寄",
+                        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147138/147138.jpg",
+                        "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/147138.jpg",
+                        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147138/147138_kan1.jpg",
+                        "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/147138.jpg",
+                        "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147138/147138map.gif",
+                        "reviewCount": 169,
+                        "reviewAverage": 3.81,
+                        "userReview": "部屋に鏡が欲しいですまた大浴場があったら最高です　2022-02-14 19:54:12投稿"
+                    }
+                },
+                {
+                    "hotelRatingInfo": {
+                        "serviceAverage": 3.63,
+                        "locationAverage": 4.2,
+                        "roomAverage": 4.06,
+                        "equipmentAverage": 3.63,
+                        "bathAverage": 0,
+                        "mealAverage": 0
+                    }
+                }
+            ]
+        },
+        {
+            "hotel": [
+                {
+                    "hotelBasicInfo": {
+                        "hotelNo": 14839,
+                        "hotelName": "スマイルホテル旭川",
+                        "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/dQ4dX/?f_no=14839",
+                        "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/cHNRi/?f_no=14839&f_flg=PLAN",
+                        "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/TDZXm/?noTomariHotel=14839",
+                        "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=14839",
+                        "hotelKanaName": "すまいるほてるあさひかわ",
+                        "hotelSpecial": "【宿クーポン発行中】旭川駅より徒歩5分サンロク街まで徒歩1分！★旭川空港行きホテル前停車★",
+                        "hotelMinCharge": 1584,
+                        "latitude": 157550.82,
+                        "longitude": 512500.65,
+                        "postalCode": "070-0031",
+                        "address1": "北海道",
+                        "address2": "旭川市一条通6左10号昭和通り",
+                        "telephoneNo": "0166-25-3311",
+                        "faxNo": "0166-25-3319",
+                        "access": "ＪＲ旭川駅西改札北口を出て、信号２つ目を左折。約１００メートル先交差点の右斜めにございます。　徒歩５分。",
+                        "parkingInformation": "契約駐車場のみ 1台600〜1080円 15時〜翌朝11時まで ※バイク1台770円　大型車要相談",
+                        "nearestStation": "旭川",
+                        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14839/14839.jpg",
+                        "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/14839.jpg",
+                        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14839/14839_room.jpg",
+                        "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/14839.jpg",
+                        "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14839/14839map.gif",
+                        "reviewCount": 1518,
+                        "reviewAverage": 3.7,
+                        "userReview": "駅からまあまあ近く途中コンビニあり食事も困りません。建物や部屋は年季が入ってますが普通に清掃してあり問題なくストレスなく泊まれました。　2022-01-26 18:19:56投稿"
+                    }
+                },
+                {
+                    "hotelRatingInfo": {
+                        "serviceAverage": 3.58,
+                        "locationAverage": 4.18,
+                        "roomAverage": 3.24,
+                        "equipmentAverage": 3.33,
+                        "bathAverage": 3.15,
+                        "mealAverage": 3.9
+                    }
+                }
+            ]
+        },
+        {
+            "hotel": [
+                {
+                    "hotelBasicInfo": {
+                        "hotelNo": 108368,
+                        "hotelName": "東横イン旭川駅東口",
+                        "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/dQ4dX/?f_no=108368",
+                        "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/cHNRi/?f_no=108368&f_flg=PLAN",
+                        "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/TDZXm/?noTomariHotel=108368",
+                        "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=108368",
+                        "hotelKanaName": "とうよこいんあさひかわえきひがしぐち",
+                        "hotelSpecial": "■旭川駅から３分■■手作り朝食はお袋の味!■雄大な北海道の景色を満喫して下さい！",
+                        "hotelMinCharge": 2050,
+                        "latitude": 157537.53,
+                        "longitude": 512521.08,
+                        "postalCode": "070-0030",
+                        "address1": "北海道",
+                        "address2": "旭川市宮下通11-1176",
+                        "telephoneNo": "0166-25-2045",
+                        "faxNo": "0166-25-2046",
+                        "access": "■旭川駅東口から徒歩3分■旭山動物園、旭川空港行きバス徒歩3分■",
+                        "parkingInformation": "48台の屋根あり立体駐車場、 26台の屋根なし駐車場を完備■１泊普通車一台500円",
+                        "nearestStation": "旭川",
+                        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108368/108368.jpg",
+                        "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/108368.jpg",
+                        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108368/108368room1.jpg",
+                        "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/108368.jpg",
+                        "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108368/108368map.gif",
+                        "reviewCount": 352,
+                        "reviewAverage": 3.77,
+                        "userReview": null
+                    }
+                },
+                {
+                    "hotelRatingInfo": {
+                        "serviceAverage": 0,
+                        "locationAverage": 0,
+                        "roomAverage": 0,
+                        "equipmentAverage": 0,
+                        "bathAverage": 0,
+                        "mealAverage": 0
+                    }
+                }
+            ]
+        },
+        {
+            "hotel": [
+                {
+                    "hotelBasicInfo": {
+                        "hotelNo": 153679,
+                        "hotelName": "くれたけイン旭川",
+                        "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/dQ4dX/?f_no=153679",
+                        "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/cHNRi/?f_no=153679&f_flg=PLAN",
+                        "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/TDZXm/?noTomariHotel=153679",
+                        "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=153679",
+                        "hotelKanaName": "くれたけいんあさひかわ",
+                        "hotelSpecial": "おふくろの味やチェーンホテル料理長考案メニューなど朝食が多彩",
+                        "hotelMinCharge": 2475,
+                        "latitude": 157556.31,
+                        "longitude": 512518.86,
+                        "postalCode": "070-0034",
+                        "address1": "北海道",
+                        "address2": "旭川市４条通9丁目1704-18",
+                        "telephoneNo": "0166-27-9111",
+                        "faxNo": "0166-27-9100",
+                        "access": "ＪＲ　旭川駅より徒歩にて約８分",
+                        "parkingInformation": "有り　8００円（税込み／泊）　先着順 ※車種によっては金額変更有り",
+                        "nearestStation": "旭川",
+                        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/153679/153679.jpg",
+                        "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/153679.jpg",
+                        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/153679/153679_kan1.jpg",
+                        "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/153679.jpg",
+                        "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/153679/153679map.gif",
+                        "reviewCount": 443,
+                        "reviewAverage": 4.31,
+                        "userReview": "安いのにとても良かったので、もう一泊しました。無料朝食なのにお腹一杯になりました。2日目は朝食同じだと飽きちゃうなと思いながらいると、メイン5品程が全部メニュー変わっており、感動でした。とても美味しか…　2022-02-15 22:24:26投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=153679\" class=\"3click\">つづきはこちら</a>"
+                    }
+                },
+                {
+                    "hotelRatingInfo": {
+                        "serviceAverage": 4.18,
+                        "locationAverage": 4.24,
+                        "roomAverage": 3.84,
+                        "equipmentAverage": 3.5,
+                        "bathAverage": 3.12,
+                        "mealAverage": 3.98
+                    }
+                }
+            ]
+        },
+        {
+            "hotel": [
+                {
+                    "hotelBasicInfo": {
+                        "hotelNo": 29874,
+                        "hotelName": "旭川旭岳温泉　湯元　湧駒荘",
+                        "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/dQ4dX/?f_no=29874",
+                        "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/cHNRi/?f_no=29874&f_flg=PLAN",
+                        "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/TDZXm/?noTomariHotel=29874",
+                        "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=29874",
+                        "hotelKanaName": "あさひかわあさひだけおんせん　ゆもと　ゆこまんそう",
+                        "hotelSpecial": "楽天トラベルアワード2014北海道レジャー部門☆金賞☆受賞！！美瑛・富良野からのアクセスもok！",
+                        "hotelMinCharge": 8500,
+                        "latitude": 157124.81,
+                        "longitude": 514058.75,
+                        "postalCode": "071-1472",
+                        "address1": "北海道",
+                        "address2": "上川郡東川町勇駒別旭岳温泉",
+                        "telephoneNo": "0166-97-2101",
+                        "faxNo": "0166-97-2103",
+                        "access": "車で/旭川市旭山動物園より50分/旭川空港より40分/美瑛より40分/富良野より90分/旭川駅発旭岳行きバス旭岳温泉入口",
+                        "parkingInformation": "有　40台　無料",
+                        "nearestStation": "旭川",
+                        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29874/29874.jpg",
+                        "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/29874.jpg",
+                        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29874/29874_he.jpg",
+                        "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/29874.jpg",
+                        "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29874/29874map.gif",
+                        "reviewCount": 605,
+                        "reviewAverage": 4.26,
+                        "userReview": "お部屋もきれい、お料理もおいしく満足しました。お料理が出てくるのが遅いのがマイナス点ですね。温泉は他の方のコメント通りだと思います。14:00まで温泉に入れないと言う事でお天気も良かっ…　2022-02-11 10:15:09投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=29874\" class=\"3click\">つづきはこちら</a>"
+                    }
+                },
+                {
+                    "hotelRatingInfo": {
+                        "serviceAverage": 4.25,
+                        "locationAverage": 4.14,
+                        "roomAverage": 4.14,
+                        "equipmentAverage": 4.03,
+                        "bathAverage": 4.59,
+                        "mealAverage": 4.38
+                    }
+                }
+            ]
+        },
+        {
+            "hotel": [
+                {
+                    "hotelBasicInfo": {
+                        "hotelNo": 166427,
+                        "hotelName": "Ｒホテルズイン北海道旭川",
+                        "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/dQ4dX/?f_no=166427",
+                        "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/cHNRi/?f_no=166427&f_flg=PLAN",
+                        "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/TDZXm/?noTomariHotel=166427",
+                        "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=166427",
+                        "hotelKanaName": "あーるほてるずいん　ほっかいどう　あさひかわ",
+                        "hotelSpecial": "JR旭川駅より徒歩5分！3・6街まで徒歩1分！自慢の朝食はお客様より大好評！カップル・ファミリーにも",
+                        "hotelMinCharge": 2250,
+                        "latitude": 157552.11,
+                        "longitude": 512511.24,
+                        "postalCode": "070-0032",
+                        "address1": "北海道",
+                        "address2": "旭川市2条通8左3",
+                        "telephoneNo": "0166-26-7771",
+                        "faxNo": "0166-26-7772",
+                        "access": "JR旭川駅より徒歩5分",
+                        "parkingInformation": "有　３８台　６００円（税込み／泊）　※先着順　予約不可　サイズ制限有",
+                        "nearestStation": "旭川",
+                        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/166427/166427.jpg",
+                        "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/166427.jpg",
+                        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/166427/166427_kan1.jpg",
+                        "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/166427.jpg",
+                        "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/166427/166427map.gif",
+                        "reviewCount": 237,
+                        "reviewAverage": 3.93,
+                        "userReview": "大きいスーツケース持ちだと少し狭いかもしれませんが、立体駐車場側の部屋（景色ゼロ）はとにかく安く泊まれます。駅からも近いのでとても便利で良いホテルでした。　2022-01-15 21:23:02投稿"
+                    }
+                },
+                {
+                    "hotelRatingInfo": {
+                        "serviceAverage": 3.8,
+                        "locationAverage": 4.25,
+                        "roomAverage": 3.75,
+                        "equipmentAverage": 3.7,
+                        "bathAverage": 2.89,
+                        "mealAverage": 0
+                    }
+                }
+            ]
+        },
+        {
+            "hotel": [
+                {
+                    "hotelBasicInfo": {
+                        "hotelNo": 107872,
+                        "hotelName": "旭川パークホテル",
+                        "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/dQ4dX/?f_no=107872",
+                        "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/cHNRi/?f_no=107872&f_flg=PLAN",
+                        "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/TDZXm/?noTomariHotel=107872",
+                        "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=107872",
+                        "hotelKanaName": "あさひかわぱーく",
+                        "hotelSpecial": "緑と風に包まれた、高台にある小さなリゾートホテルです。美しい景色と共にお食事もご堪能下さい。",
+                        "hotelMinCharge": 3850,
+                        "latitude": 157543.70,
+                        "longitude": 512343.36,
+                        "postalCode": "070-8061",
+                        "address1": "北海道",
+                        "address2": "旭川市高砂台3丁目8-38",
+                        "telephoneNo": "0166-60-1010",
+                        "faxNo": "0166-60-1020",
+                        "access": "旭川駅からお車で１３分",
+                        "parkingInformation": "駐車場無料　※駐車場有　大型車両も駐車頂けます（大型車両は要予約）",
+                        "nearestStation": "旭川",
+                        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/107872/107872.jpg",
+                        "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/107872.jpg",
+                        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/107872/107872_kya.jpg",
+                        "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/107872.jpg",
+                        "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/107872/107872map.gif",
+                        "reviewCount": 363,
+                        "reviewAverage": 4.59,
+                        "userReview": "１月2日から3泊しました。口コミ通り食事は朝食夕食共にひと手間かけてありどれも美味しく食べ過ぎてしまいました。品数が多く食べきれないので減らしてもらう程でした。施設は決して新しくはないですが　掃除…　2022-01-10 16:40:19投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=107872\" class=\"3click\">つづきはこちら</a>"
+                    }
+                },
+                {
+                    "hotelRatingInfo": {
+                        "serviceAverage": 4.59,
+                        "locationAverage": 4.11,
+                        "roomAverage": 4.26,
+                        "equipmentAverage": 4.22,
+                        "bathAverage": 3.67,
+                        "mealAverage": 4.72
+                    }
+                }
+            ]
+        },
+        {
+            "hotel": [
+                {
+                    "hotelBasicInfo": {
+                        "hotelNo": 167079,
+                        "hotelName": "Ａ－ＧＡＴＥ　ＨＯＴＥＬ　旭川",
+                        "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/dQ4dX/?f_no=167079",
+                        "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/cHNRi/?f_no=167079&f_flg=PLAN",
+                        "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/TDZXm/?noTomariHotel=167079",
+                        "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=167079",
+                        "hotelKanaName": "えーげーと　ほてる　あさひかわ",
+                        "hotelSpecial": "全プラン屋内駐車場無料！全室36㎡以上＆お部屋食♪シャンプーバー/ドリンクバー/キッズスペースあり♪",
+                        "hotelMinCharge": 1890,
+                        "latitude": 157534.19,
+                        "longitude": 512354.94,
+                        "postalCode": "070-8061",
+                        "address1": "北海道",
+                        "address2": "旭川市高砂台6丁目228-27",
+                        "telephoneNo": "0166-63-3231",
+                        "faxNo": "0166-63-3281",
+                        "access": "旭川駅より車で18分　旭川空港より車で40分",
+                        "parkingInformation": "屋内駐車場（30台／無料）大型車・バス・トラック等も駐車可能！/屋根付きなのでバイクも安心♪",
+                        "nearestStation": "旭川空港",
+                        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/167079/167079.jpg",
+                        "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/167079.jpg",
+                        "roomImageUrl": null,
+                        "roomThumbnailUrl": null,
+                        "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/167079/167079map.gif",
+                        "reviewCount": 276,
+                        "reviewAverage": 4.49,
+                        "userReview": "ドリンクやカップ麺のサービス、チェックイン時にお菓子のサービスなど、手作り感のあるサービスが良かった！　2022-02-19 15:57:49投稿"
+                    }
+                },
+                {
+                    "hotelRatingInfo": {
+                        "serviceAverage": 4.63,
+                        "locationAverage": 3.84,
+                        "roomAverage": 4.73,
+                        "equipmentAverage": 4.74,
+                        "bathAverage": 4.56,
+                        "mealAverage": 4.62
+                    }
+                }
+            ]
+        },
+        {
+            "hotel": [
+                {
+                    "hotelBasicInfo": {
+                        "hotelNo": 238,
+                        "hotelName": "旭川トーヨーホテル",
+                        "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/dQ4dX/?f_no=238",
+                        "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/cHNRi/?f_no=238&f_flg=PLAN",
+                        "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/TDZXm/?noTomariHotel=238",
+                        "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=238",
+                        "hotelKanaName": "あさひかわ　とーよーほてる",
+                        "hotelSpecial": "夕食ルームサービス販売中！ロビー直結コンビニございます！旭川空港発着のバス停がホテル正面！",
+                        "hotelMinCharge": 1800,
+                        "latitude": 157571.12,
+                        "longitude": 512514.38,
+                        "postalCode": "070-0037",
+                        "address1": "北海道",
+                        "address2": "旭川市7条通7丁目32-12",
+                        "telephoneNo": "0166-22-7575",
+                        "faxNo": "0166-23-1733",
+                        "access": "ＪＲ旭川駅西口から車で5分徒歩で15分、旭川空港発着のバスでおよそ40分",
+                        "parkingInformation": "100台収容（１泊800円）提携駐車場有り　ページ内に「駐車場」案内有り",
+                        "nearestStation": "旭川",
+                        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/238/238.jpg",
+                        "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/238.jpg",
+                        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/238/238_twn.jpg",
+                        "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/238.jpg",
+                        "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/238/238map.gif",
+                        "reviewCount": 2692,
+                        "reviewAverage": 3.78,
+                        "userReview": "当日予約で宿泊しました。遅い時間のチェックインでしたがフロントマンの対応が素晴らしく、気持ちよく宿泊することができましたまた買い物に出ようと場所をフロントに尋ねるロビー直結でセイコーマートさん…　2022-02-15 14:48:26投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=238\" class=\"3click\">つづきはこちら</a>"
+                    }
+                },
+                {
+                    "hotelRatingInfo": {
+                        "serviceAverage": 3.87,
+                        "locationAverage": 4,
+                        "roomAverage": 3.61,
+                        "equipmentAverage": 3.57,
+                        "bathAverage": 3.27,
+                        "mealAverage": 3.93
+                    }
+                }
+            ]
+        },
+        {
+            "hotel": [
+                {
+                    "hotelBasicInfo": {
+                        "hotelNo": 40406,
+                        "hotelName": "ホテル　バード・イン",
+                        "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/dQ4dX/?f_no=40406",
+                        "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/cHNRi/?f_no=40406&f_flg=PLAN",
+                        "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/TDZXm/?noTomariHotel=40406",
+                        "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=40406",
+                        "hotelKanaName": "ばーど　いん",
+                        "hotelSpecial": "全室バリアフリーのホテル　トイレ･浴室別々設計の広々とした室内",
+                        "hotelMinCharge": 4200,
+                        "latitude": 159657.65,
+                        "longitude": 512868.66,
+                        "postalCode": "096-0012",
+                        "address1": "北海道",
+                        "address2": "名寄市西2条南4丁目",
+                        "telephoneNo": "01654-9-4567",
+                        "faxNo": "01654-9-4600",
+                        "access": "名寄駅から徒歩１０分／旭川駅からＪＲで約５０分／札幌駅からＪＲで２時間１０分",
+                        "parkingInformation": "有り　２５台　無料　先着順",
+                        "nearestStation": "名寄",
+                        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40406/40406.jpg",
+                        "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/40406.jpg",
+                        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40406/40406_he.jpg",
+                        "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/40406.jpg",
+                        "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40406/40406map.gif",
+                        "reviewCount": 125,
+                        "reviewAverage": 4.18,
+                        "userReview": null
+                    }
+                },
+                {
+                    "hotelRatingInfo": {
+                        "serviceAverage": 0,
+                        "locationAverage": 0,
+                        "roomAverage": 0,
+                        "equipmentAverage": 0,
+                        "bathAverage": 0,
+                        "mealAverage": 0
+                    }
+                }
+            ]
+        },
+        {
+            "hotel": [
+                {
+                    "hotelBasicInfo": {
+                        "hotelNo": 9507,
+                        "hotelName": "旭川サンホテル",
+                        "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/dQ4dX/?f_no=9507",
+                        "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/cHNRi/?f_no=9507&f_flg=PLAN",
+                        "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/TDZXm/?noTomariHotel=9507",
+                        "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=9507",
+                        "hotelKanaName": "あさひかわさんほてる",
+                        "hotelSpecial": "2017年4月全室リニューアル！綺麗なお部屋にベッドは世界のシモンズ製♪WiFi無料♪繁華街にも隣接",
+                        "hotelMinCharge": 1800,
+                        "latitude": 157553.41,
+                        "longitude": 512508.37,
+                        "postalCode": "070-0032",
+                        "address1": "北海道",
+                        "address2": "旭川市二条通7左8",
+                        "telephoneNo": "0166-23-3233",
+                        "faxNo": "0166-22-1485",
+                        "access": "ＪＲ旭川駅より買い物公園を通り徒歩５分・徒歩３分以内にコンビ二3ヵ所及びファーストフード店3箇所あり",
+                        "parkingInformation": "有 地下８００円（税込/泊）満車の場合：契約駐車場有(計40台分収容可)ＰＭ3〜ＡＭ１０まで８００円",
+                        "nearestStation": "旭川",
+                        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9507/9507.jpg",
+                        "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/9507.jpg",
+                        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9507/9507_twn.jpg",
+                        "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/9507.jpg",
+                        "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9507/9507map.gif",
+                        "reviewCount": 1351,
+                        "reviewAverage": 3.85,
+                        "userReview": null
+                    }
+                },
+                {
+                    "hotelRatingInfo": {
+                        "serviceAverage": 0,
+                        "locationAverage": 0,
+                        "roomAverage": 0,
+                        "equipmentAverage": 0,
+                        "bathAverage": 0,
+                        "mealAverage": 0
+                    }
+                }
+            ]
+        },
+        {
+            "hotel": [
+                {
+                    "hotelBasicInfo": {
+                        "hotelNo": 165068,
+                        "hotelName": "ホテルリベルテ旭川３条通り（ＢＢＨホテルグループ）",
+                        "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/dQ4dX/?f_no=165068",
+                        "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/cHNRi/?f_no=165068&f_flg=PLAN",
+                        "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/TDZXm/?noTomariHotel=165068",
+                        "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=165068",
+                        "hotelKanaName": "りべるてあさひかわ３じょうどおり",
+                        "hotelSpecial": "【朝食バイキング無料】駐車場も無料完備、ＪＲ旭川駅から徒歩約12分の立地、サンロクまで徒歩3分！",
+                        "hotelMinCharge": 1957,
+                        "latitude": 157561.58,
+                        "longitude": 512491.85,
+                        "postalCode": "070-0033",
+                        "address1": "北海道",
+                        "address2": "旭川市3条通4丁目450",
+                        "telephoneNo": "0166-26-3500",
+                        "faxNo": "0166-26-3876",
+                        "access": "ＪＲ　旭川駅より徒歩約１１分",
+                        "parkingInformation": "有り　54台　無料　予約不要",
+                        "nearestStation": "旭川",
+                        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/165068/165068.jpg",
+                        "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/165068.jpg",
+                        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/165068/165068_kan1.jpg",
+                        "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/165068.jpg",
+                        "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/165068/165068map.gif",
+                        "reviewCount": 161,
+                        "reviewAverage": 3.58,
+                        "userReview": "朝食のメニューが少ない気が致しました。　2022-01-09 22:24:00投稿"
+                    }
+                },
+                {
+                    "hotelRatingInfo": {
+                        "serviceAverage": 3.67,
+                        "locationAverage": 3.87,
+                        "roomAverage": 3.2,
+                        "equipmentAverage": 3.42,
+                        "bathAverage": 3.13,
+                        "mealAverage": 3.93
+                    }
+                }
+            ]
+        }
+    ]
+}
