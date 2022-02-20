@@ -97,7 +97,7 @@ function marker_delete() {
 
 function getAreaThenShow() {
     // TODO: APIからJSONデータを取得する↓
-    fetch("../AREA.json")
+    fetch("./AREA.json")
         .then((response) => {
             console.log(response);
             return response.json();//ここでBodyからJSONを返す
@@ -137,7 +137,7 @@ function getAreaThenShow() {
 
 function getSpotThenShow() {
     // TODO: APIからJSONデータを取得する↓
-    fetch("../RESAS.json")
+    fetch("./RESAS.json")
         .then((response) => {
             console.log(response);
             return response.json();//ここでBodyからJSONを返す
@@ -178,7 +178,7 @@ function getSpotThenShow() {
 function getCityThenShow() {
     
     // TODO: APIからJSONデータを取得する↓
-    fetch("../city_hall.json")
+    fetch("./city_hall.json")
         .then((response) => {
             console.log(response);
             return response.json();//ここでBodyからJSONを返す
@@ -218,7 +218,7 @@ function getCityThenShow() {
 function getRestaurantThenShow() {
     
     // TODO: APIからJSONデータを取得する↓
-    fetch("../hotpepper.json")
+    fetch("./hotpepper.json")
         .then((response) => {
             console.log(response);
             return response.json();//ここでBodyからJSONを返す
@@ -259,7 +259,7 @@ function getRestaurantThenShow() {
 function getHotelThenShow() {
     
     // TODO: APIからJSONデータを取得する↓
-    fetch("../rakuten.json")
+    fetch("./rakuten.json")
         .then((response) => {
             console.log(response);
             return response.json();//ここでBodyからJSONを返す
